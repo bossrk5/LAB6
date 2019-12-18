@@ -1,0 +1,2079 @@
+  iIter=    0 ZTR= 0.00000E+00 Alpha= 0.000E+00
+  iIter=    0 ZTR= 0.00000E+00 Alpha= 0.000E+00
+  iIter=    0 ZTR= 0.00000E+00 Alpha= 0.000E+00
+ DOF = PRES - Global Iteration     1                           - CONGRD Solver
+  iIter=    0 ZTR= 0.98116E+05 Alpha= 0.100E+01
+  iIter=   70 ZTR= 0.94225E-07 Alpha= 0.235E+01
+ DOF = PRES - Global Iteration     2                           - CONGRD Solver
+  iIter=    0 ZTR= 0.52040E+05 Alpha= 0.110E+01
+  iIter=  109 ZTR= 0.36771E-07 Alpha= 0.218E+01
+ DOF = PRES - Global Iteration     3                           - CONGRD Solver
+  iIter=    0 ZTR= 0.16124E+05 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.11700E-07 Alpha= 0.228E+01
+ DOF = PRES - Global Iteration     4                           - CONGRD Solver
+  iIter=    0 ZTR= 0.13484E+05 Alpha= 0.108E+01
+  iIter=   99 ZTR= 0.12237E-07 Alpha= 0.244E+01
+ DOF = PRES - Global Iteration     5                           - CONGRD Solver
+  iIter=    0 ZTR= 0.84109E+04 Alpha= 0.107E+01
+  iIter=   99 ZTR= 0.83346E-08 Alpha= 0.248E+01
+ DOF = PRES - Global Iteration     6                           - CONGRD Solver
+  iIter=    0 ZTR= 0.62233E+04 Alpha= 0.106E+01
+  iIter=  101 ZTR= 0.57392E-08 Alpha= 0.248E+01
+ DOF = PRES - Global Iteration     7                           - CONGRD Solver
+  iIter=    0 ZTR= 0.75803E+04 Alpha= 0.102E+01
+  iIter=   97 ZTR= 0.57536E-08 Alpha= 0.231E+01
+ DOF = PRES - Global Iteration     8                           - CONGRD Solver
+  iIter=    0 ZTR= 0.56613E+04 Alpha= 0.103E+01
+  iIter=   97 ZTR= 0.44095E-08 Alpha= 0.217E+01
+ DOF = PRES - Global Iteration     9                           - CONGRD Solver
+  iIter=    0 ZTR= 0.39640E+04 Alpha= 0.104E+01
+  iIter=   96 ZTR= 0.33376E-08 Alpha= 0.222E+01
+ DOF = PRES - Global Iteration    10                           - CONGRD Solver
+  iIter=    0 ZTR= 0.35376E+04 Alpha= 0.995E+00
+  iIter=   96 ZTR= 0.24799E-08 Alpha= 0.196E+01
+ DOF = PRES - Global Iteration    11                           - CONGRD Solver
+  iIter=    0 ZTR= 0.19870E+04 Alpha= 0.107E+01
+  iIter=   97 ZTR= 0.16182E-08 Alpha= 0.223E+01
+ DOF = PRES - Global Iteration    12                           - CONGRD Solver
+  iIter=    0 ZTR= 0.17080E+04 Alpha= 0.103E+01
+  iIter=  101 ZTR= 0.15897E-08 Alpha= 0.221E+01
+ DOF = PRES - Global Iteration    13                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12998E+04 Alpha= 0.103E+01
+  iIter=  102 ZTR= 0.91427E-09 Alpha= 0.214E+01
+ DOF = PRES - Global Iteration    14                           - CONGRD Solver
+  iIter=    0 ZTR= 0.10213E+04 Alpha= 0.106E+01
+  iIter=  101 ZTR= 0.87015E-09 Alpha= 0.236E+01
+ DOF = PRES - Global Iteration    15                           - CONGRD Solver
+  iIter=    0 ZTR= 0.99650E+03 Alpha= 0.103E+01
+  iIter=  101 ZTR= 0.75098E-09 Alpha= 0.248E+01
+ DOF = PRES - Global Iteration    16                           - CONGRD Solver
+  iIter=    0 ZTR= 0.67909E+03 Alpha= 0.106E+01
+  iIter=  100 ZTR= 0.61063E-09 Alpha= 0.230E+01
+ DOF = PRES - Global Iteration    17                           - CONGRD Solver
+  iIter=    0 ZTR= 0.59228E+03 Alpha= 0.111E+01
+  iIter=  101 ZTR= 0.44293E-09 Alpha= 0.249E+01
+ DOF = PRES - Global Iteration    18                           - CONGRD Solver
+  iIter=    0 ZTR= 0.54122E+03 Alpha= 0.113E+01
+  iIter=   96 ZTR= 0.51303E-09 Alpha= 0.220E+01
+ DOF = PRES - Global Iteration    19                           - CONGRD Solver
+  iIter=    0 ZTR= 0.49672E+03 Alpha= 0.110E+01
+  iIter=   95 ZTR= 0.39830E-09 Alpha= 0.220E+01
+ DOF = PRES - Global Iteration    20                           - CONGRD Solver
+  iIter=    0 ZTR= 0.41483E+03 Alpha= 0.110E+01
+  iIter=   99 ZTR= 0.38942E-09 Alpha= 0.258E+01
+ DOF = PRES - Global Iteration    21                           - CONGRD Solver
+  iIter=    0 ZTR= 0.35289E+03 Alpha= 0.103E+01
+  iIter=  100 ZTR= 0.25388E-09 Alpha= 0.220E+01
+ DOF = PRES - Global Iteration    22                           - CONGRD Solver
+  iIter=    0 ZTR= 0.26253E+03 Alpha= 0.108E+01
+  iIter=   98 ZTR= 0.19042E-09 Alpha= 0.236E+01
+ DOF = PRES - Global Iteration    23                           - CONGRD Solver
+  iIter=    0 ZTR= 0.20803E+03 Alpha= 0.109E+01
+  iIter=  100 ZTR= 0.16746E-09 Alpha= 0.231E+01
+ DOF = PRES - Global Iteration    24                           - CONGRD Solver
+  iIter=    0 ZTR= 0.17549E+03 Alpha= 0.110E+01
+  iIter=   97 ZTR= 0.14168E-09 Alpha= 0.232E+01
+ DOF = PRES - Global Iteration    25                           - CONGRD Solver
+  iIter=    0 ZTR= 0.17755E+03 Alpha= 0.110E+01
+  iIter=   99 ZTR= 0.13666E-09 Alpha= 0.241E+01
+ DOF = PRES - Global Iteration    26                           - CONGRD Solver
+  iIter=    0 ZTR= 0.15844E+03 Alpha= 0.108E+01
+  iIter=  100 ZTR= 0.11936E-09 Alpha= 0.235E+01
+ DOF = PRES - Global Iteration    27                           - CONGRD Solver
+  iIter=    0 ZTR= 0.13005E+03 Alpha= 0.110E+01
+  iIter=  100 ZTR= 0.10793E-09 Alpha= 0.220E+01
+ DOF = PRES - Global Iteration    28                           - CONGRD Solver
+  iIter=    0 ZTR= 0.13386E+03 Alpha= 0.111E+01
+  iIter=  100 ZTR= 0.82655E-10 Alpha= 0.217E+01
+ DOF = PRES - Global Iteration    29                           - CONGRD Solver
+  iIter=    0 ZTR= 0.11822E+03 Alpha= 0.108E+01
+  iIter=   99 ZTR= 0.83065E-10 Alpha= 0.249E+01
+ DOF = PRES - Global Iteration    30                           - CONGRD Solver
+  iIter=    0 ZTR= 0.95202E+02 Alpha= 0.105E+01
+  iIter=   98 ZTR= 0.68157E-10 Alpha= 0.214E+01
+ DOF = PRES - Global Iteration    31                           - CONGRD Solver
+  iIter=    0 ZTR= 0.72491E+02 Alpha= 0.103E+01
+  iIter=   98 ZTR= 0.53977E-10 Alpha= 0.226E+01
+ DOF = PRES - Global Iteration    32                           - CONGRD Solver
+  iIter=    0 ZTR= 0.61265E+02 Alpha= 0.994E+00
+  iIter=   97 ZTR= 0.45947E-10 Alpha= 0.242E+01
+ DOF = PRES - Global Iteration    33                           - CONGRD Solver
+  iIter=    0 ZTR= 0.53354E+02 Alpha= 0.992E+00
+  iIter=   94 ZTR= 0.51976E-10 Alpha= 0.226E+01
+ DOF = PRES - Global Iteration    34                           - CONGRD Solver
+  iIter=    0 ZTR= 0.42470E+02 Alpha= 0.101E+01
+  iIter=   99 ZTR= 0.32547E-10 Alpha= 0.252E+01
+ DOF = PRES - Global Iteration    35                           - CONGRD Solver
+  iIter=    0 ZTR= 0.32779E+02 Alpha= 0.101E+01
+  iIter=   98 ZTR= 0.25474E-10 Alpha= 0.222E+01
+ DOF = PRES - Global Iteration    36                           - CONGRD Solver
+  iIter=    0 ZTR= 0.25571E+02 Alpha= 0.101E+01
+  iIter=  100 ZTR= 0.19832E-10 Alpha= 0.227E+01
+ DOF = PRES - Global Iteration    37                           - CONGRD Solver
+  iIter=    0 ZTR= 0.20247E+02 Alpha= 0.104E+01
+  iIter=  100 ZTR= 0.16510E-10 Alpha= 0.218E+01
+ DOF = PRES - Global Iteration    38                           - CONGRD Solver
+  iIter=    0 ZTR= 0.16049E+02 Alpha= 0.109E+01
+  iIter=  100 ZTR= 0.91824E-11 Alpha= 0.205E+01
+ DOF = PRES - Global Iteration    39                           - CONGRD Solver
+  iIter=    0 ZTR= 0.14132E+02 Alpha= 0.112E+01
+  iIter=  100 ZTR= 0.10001E-10 Alpha= 0.231E+01
+ DOF = PRES - Global Iteration    40                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12606E+02 Alpha= 0.115E+01
+  iIter=  101 ZTR= 0.89932E-11 Alpha= 0.236E+01
+ DOF = PRES - Global Iteration    41                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12311E+02 Alpha= 0.114E+01
+  iIter=  100 ZTR= 0.10897E-10 Alpha= 0.253E+01
+ DOF = PRES - Global Iteration    42                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12737E+02 Alpha= 0.117E+01
+  iIter=   97 ZTR= 0.85519E-11 Alpha= 0.220E+01
+ DOF = PRES - Global Iteration    43                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12083E+02 Alpha= 0.122E+01
+  iIter=  100 ZTR= 0.87516E-11 Alpha= 0.233E+01
+ DOF = PRES - Global Iteration    44                           - CONGRD Solver
+  iIter=    0 ZTR= 0.11873E+02 Alpha= 0.116E+01
+  iIter=   99 ZTR= 0.93614E-11 Alpha= 0.234E+01
+ DOF = PRES - Global Iteration    45                           - CONGRD Solver
+  iIter=    0 ZTR= 0.10617E+02 Alpha= 0.111E+01
+  iIter=   99 ZTR= 0.86801E-11 Alpha= 0.218E+01
+ DOF = PRES - Global Iteration    46                           - CONGRD Solver
+  iIter=    0 ZTR= 0.98619E+01 Alpha= 0.117E+01
+  iIter=  100 ZTR= 0.80547E-11 Alpha= 0.223E+01
+ DOF = PRES - Global Iteration    47                           - CONGRD Solver
+  iIter=    0 ZTR= 0.85027E+01 Alpha= 0.123E+01
+  iIter=  100 ZTR= 0.81861E-11 Alpha= 0.239E+01
+ DOF = PRES - Global Iteration    48                           - CONGRD Solver
+  iIter=    0 ZTR= 0.57220E+01 Alpha= 0.114E+01
+  iIter=  100 ZTR= 0.44798E-11 Alpha= 0.246E+01
+ DOF = PRES - Global Iteration    49                           - CONGRD Solver
+  iIter=    0 ZTR= 0.40412E+01 Alpha= 0.106E+01
+  iIter=   99 ZTR= 0.27216E-11 Alpha= 0.239E+01
+ DOF = PRES - Global Iteration    50                           - CONGRD Solver
+  iIter=    0 ZTR= 0.32398E+01 Alpha= 0.107E+01
+  iIter=   99 ZTR= 0.28369E-11 Alpha= 0.241E+01
+ DOF = PRES - Global Iteration    51                           - CONGRD Solver
+  iIter=    0 ZTR= 0.29090E+01 Alpha= 0.106E+01
+  iIter=  100 ZTR= 0.23161E-11 Alpha= 0.247E+01
+ DOF = PRES - Global Iteration    52                           - CONGRD Solver
+  iIter=    0 ZTR= 0.24407E+01 Alpha= 0.105E+01
+  iIter=   99 ZTR= 0.24402E-11 Alpha= 0.223E+01
+ DOF = PRES - Global Iteration    53                           - CONGRD Solver
+  iIter=    0 ZTR= 0.19524E+01 Alpha= 0.106E+01
+  iIter=  100 ZTR= 0.13389E-11 Alpha= 0.239E+01
+ DOF = PRES - Global Iteration    54                           - CONGRD Solver
+  iIter=    0 ZTR= 0.16506E+01 Alpha= 0.108E+01
+  iIter=   94 ZTR= 0.14806E-11 Alpha= 0.244E+01
+ DOF = PRES - Global Iteration    55                           - CONGRD Solver
+  iIter=    0 ZTR= 0.14363E+01 Alpha= 0.108E+01
+  iIter=   97 ZTR= 0.11874E-11 Alpha= 0.251E+01
+ DOF = PRES - Global Iteration    56                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12318E+01 Alpha= 0.107E+01
+  iIter=  100 ZTR= 0.77051E-12 Alpha= 0.225E+01
+ DOF = PRES - Global Iteration    57                           - CONGRD Solver
+  iIter=    0 ZTR= 0.10567E+01 Alpha= 0.107E+01
+  iIter=  100 ZTR= 0.84613E-12 Alpha= 0.229E+01
+ DOF = PRES - Global Iteration    58                           - CONGRD Solver
+  iIter=    0 ZTR= 0.93983E+00 Alpha= 0.106E+01
+  iIter=  100 ZTR= 0.81277E-12 Alpha= 0.234E+01
+ DOF = PRES - Global Iteration    59                           - CONGRD Solver
+  iIter=    0 ZTR= 0.85872E+00 Alpha= 0.106E+01
+  iIter=  100 ZTR= 0.67792E-12 Alpha= 0.234E+01
+ DOF = PRES - Global Iteration    60                           - CONGRD Solver
+  iIter=    0 ZTR= 0.77822E+00 Alpha= 0.106E+01
+  iIter=  100 ZTR= 0.50357E-12 Alpha= 0.227E+01
+ DOF = PRES - Global Iteration    61                           - CONGRD Solver
+  iIter=    0 ZTR= 0.69446E+00 Alpha= 0.106E+01
+  iIter=   99 ZTR= 0.65411E-12 Alpha= 0.213E+01
+ DOF = PRES - Global Iteration    62                           - CONGRD Solver
+  iIter=    0 ZTR= 0.62072E+00 Alpha= 0.105E+01
+  iIter=   99 ZTR= 0.60199E-12 Alpha= 0.217E+01
+ DOF = PRES - Global Iteration    63                           - CONGRD Solver
+  iIter=    0 ZTR= 0.55961E+00 Alpha= 0.104E+01
+  iIter=  100 ZTR= 0.33084E-12 Alpha= 0.220E+01
+ DOF = PRES - Global Iteration    64                           - CONGRD Solver
+  iIter=    0 ZTR= 0.50610E+00 Alpha= 0.104E+01
+  iIter=   99 ZTR= 0.49742E-12 Alpha= 0.227E+01
+ DOF = PRES - Global Iteration    65                           - CONGRD Solver
+  iIter=    0 ZTR= 0.45548E+00 Alpha= 0.104E+01
+  iIter=   99 ZTR= 0.40774E-12 Alpha= 0.231E+01
+ DOF = PRES - Global Iteration    66                           - CONGRD Solver
+  iIter=    0 ZTR= 0.40449E+00 Alpha= 0.103E+01
+  iIter=   99 ZTR= 0.32421E-12 Alpha= 0.239E+01
+ DOF = PRES - Global Iteration    67                           - CONGRD Solver
+  iIter=    0 ZTR= 0.35378E+00 Alpha= 0.103E+01
+  iIter=   99 ZTR= 0.24882E-12 Alpha= 0.239E+01
+ DOF = PRES - Global Iteration    68                           - CONGRD Solver
+  iIter=    0 ZTR= 0.30696E+00 Alpha= 0.102E+01
+  iIter=   99 ZTR= 0.19980E-12 Alpha= 0.237E+01
+ DOF = PRES - Global Iteration    69                           - CONGRD Solver
+  iIter=    0 ZTR= 0.26577E+00 Alpha= 0.102E+01
+  iIter=   98 ZTR= 0.25788E-12 Alpha= 0.250E+01
+ DOF = PRES - Global Iteration    70                           - CONGRD Solver
+  iIter=    0 ZTR= 0.22908E+00 Alpha= 0.102E+01
+  iIter=   98 ZTR= 0.21480E-12 Alpha= 0.247E+01
+ DOF = PRES - Global Iteration    71                           - CONGRD Solver
+  iIter=    0 ZTR= 0.19562E+00 Alpha= 0.102E+01
+  iIter=   98 ZTR= 0.18170E-12 Alpha= 0.246E+01
+ DOF = PRES - Global Iteration    72                           - CONGRD Solver
+  iIter=    0 ZTR= 0.16555E+00 Alpha= 0.102E+01
+  iIter=   98 ZTR= 0.15804E-12 Alpha= 0.246E+01
+ DOF = PRES - Global Iteration    73                           - CONGRD Solver
+  iIter=    0 ZTR= 0.13965E+00 Alpha= 0.102E+01
+  iIter=   99 ZTR= 0.78202E-13 Alpha= 0.215E+01
+ DOF = PRES - Global Iteration    74                           - CONGRD Solver
+  iIter=    0 ZTR= 0.11822E+00 Alpha= 0.103E+01
+  iIter=   99 ZTR= 0.71809E-13 Alpha= 0.213E+01
+ DOF = PRES - Global Iteration    75                           - CONGRD Solver
+  iIter=    0 ZTR= 0.10096E+00 Alpha= 0.103E+01
+  iIter=   99 ZTR= 0.66802E-13 Alpha= 0.216E+01
+ DOF = PRES - Global Iteration    76                           - CONGRD Solver
+  iIter=    0 ZTR= 0.87274E-01 Alpha= 0.104E+01
+  iIter=   99 ZTR= 0.59386E-13 Alpha= 0.219E+01
+ DOF = PRES - Global Iteration    77                           - CONGRD Solver
+  iIter=    0 ZTR= 0.76597E-01 Alpha= 0.104E+01
+  iIter=   99 ZTR= 0.50458E-13 Alpha= 0.221E+01
+ DOF = PRES - Global Iteration    78                           - CONGRD Solver
+  iIter=    0 ZTR= 0.68393E-01 Alpha= 0.104E+01
+  iIter=   98 ZTR= 0.67138E-13 Alpha= 0.246E+01
+ DOF = PRES - Global Iteration    79                           - CONGRD Solver
+  iIter=    0 ZTR= 0.62143E-01 Alpha= 0.104E+01
+  iIter=   97 ZTR= 0.60825E-13 Alpha= 0.255E+01
+ DOF = PRES - Global Iteration    80                           - CONGRD Solver
+  iIter=    0 ZTR= 0.57349E-01 Alpha= 0.105E+01
+  iIter=   95 ZTR= 0.53730E-13 Alpha= 0.244E+01
+ DOF = PRES - Global Iteration    81                           - CONGRD Solver
+  iIter=    0 ZTR= 0.53568E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.48648E-13 Alpha= 0.213E+01
+ DOF = PRES - Global Iteration    82                           - CONGRD Solver
+  iIter=    0 ZTR= 0.50447E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.36132E-13 Alpha= 0.209E+01
+ DOF = PRES - Global Iteration    83                           - CONGRD Solver
+  iIter=    0 ZTR= 0.47725E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.30782E-13 Alpha= 0.208E+01
+ DOF = PRES - Global Iteration    84                           - CONGRD Solver
+  iIter=    0 ZTR= 0.45221E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.28963E-13 Alpha= 0.209E+01
+ DOF = PRES - Global Iteration    85                           - CONGRD Solver
+  iIter=    0 ZTR= 0.42812E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.28642E-13 Alpha= 0.210E+01
+ DOF = PRES - Global Iteration    86                           - CONGRD Solver
+  iIter=    0 ZTR= 0.40419E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.28902E-13 Alpha= 0.210E+01
+ DOF = PRES - Global Iteration    87                           - CONGRD Solver
+  iIter=    0 ZTR= 0.38007E-01 Alpha= 0.103E+01
+  iIter=   94 ZTR= 0.29426E-13 Alpha= 0.210E+01
+ DOF = PRES - Global Iteration    88                           - CONGRD Solver
+  iIter=    0 ZTR= 0.35564E-01 Alpha= 0.103E+01
+  iIter=   94 ZTR= 0.30088E-13 Alpha= 0.210E+01
+ DOF = PRES - Global Iteration    89                           - CONGRD Solver
+  iIter=    0 ZTR= 0.33101E-01 Alpha= 0.103E+01
+  iIter=   94 ZTR= 0.30720E-13 Alpha= 0.209E+01
+ DOF = PRES - Global Iteration    90                           - CONGRD Solver
+  iIter=    0 ZTR= 0.30640E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.20019E-13 Alpha= 0.223E+01
+ DOF = PRES - Global Iteration    91                           - CONGRD Solver
+  iIter=    0 ZTR= 0.28209E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.20160E-13 Alpha= 0.223E+01
+ DOF = PRES - Global Iteration    92                           - CONGRD Solver
+  iIter=    0 ZTR= 0.25836E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.19810E-13 Alpha= 0.224E+01
+ DOF = PRES - Global Iteration    93                           - CONGRD Solver
+  iIter=    0 ZTR= 0.23547E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.18949E-13 Alpha= 0.228E+01
+ DOF = PRES - Global Iteration    94                           - CONGRD Solver
+  iIter=    0 ZTR= 0.21364E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.17704E-13 Alpha= 0.232E+01
+ DOF = PRES - Global Iteration    95                           - CONGRD Solver
+  iIter=    0 ZTR= 0.19305E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.16261E-13 Alpha= 0.235E+01
+ DOF = PRES - Global Iteration    96                           - CONGRD Solver
+  iIter=    0 ZTR= 0.17384E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.14766E-13 Alpha= 0.236E+01
+ DOF = PRES - Global Iteration    97                           - CONGRD Solver
+  iIter=    0 ZTR= 0.15607E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.13218E-13 Alpha= 0.234E+01
+ DOF = PRES - Global Iteration    98                           - CONGRD Solver
+  iIter=    0 ZTR= 0.13980E-01 Alpha= 0.103E+01
+  iIter=   95 ZTR= 0.11382E-13 Alpha= 0.237E+01
+ DOF = PRES - Global Iteration    99                           - CONGRD Solver
+  iIter=    0 ZTR= 0.12503E-01 Alpha= 0.103E+01
+  iIter=   94 ZTR= 0.12489E-13 Alpha= 0.225E+01
+ DOF = PRES - Global Iteration   100                           - CONGRD Solver
+  iIter=    0 ZTR= 0.11173E-01 Alpha= 0.104E+01
+  iIter=   94 ZTR= 0.10157E-13 Alpha= 0.222E+01
+ DOF = PRES - Global Iteration     1                           - PCCR Solver
+  iIter=    0 RTR= 0.12825E+09 Alpha= 0.924E+00 DelMax= 0.100E-09
+  iIter=  148 RTR= 0.12666E-03 Alpha= 0.249E+01 DelMax= 0.100E-03
+ DOF = PRES - Global Iteration     2                           - PCCR Solver
+  iIter=    0 RTR= 0.26703E+08 Alpha= 0.888E+00 DelMax= 0.100E-09
+  iIter=  158 RTR= 0.23652E-04 Alpha= 0.285E+01 DelMax= 0.657E-05
+ DOF = PRES - Global Iteration     3                           - PCCR Solver
+  iIter=    0 RTR= 0.23606E+08 Alpha= 0.778E+00 DelMax= 0.100E-09
+  iIter=  148 RTR= 0.20601E-04 Alpha= 0.288E+01 DelMax= 0.649E-05
+ DOF = PRES - Global Iteration     4                           - PCCR Solver
+  iIter=    0 RTR= 0.13735E+08 Alpha= 0.861E+00 DelMax= 0.100E-09
+  iIter=  256 RTR= 0.11409E-04 Alpha= 0.266E+01 DelMax= 0.627E-02
+ DOF = PRES - Global Iteration     5                           - PCCR Solver
+  iIter=    0 RTR= 0.58660E+07 Alpha= 0.840E+00 DelMax= 0.100E-09
+  iIter=  288 RTR= 0.52690E-05 Alpha= 0.258E+01 DelMax= 0.410E-02
+ DOF = PRES - Global Iteration     6                           - PCCR Solver
+  iIter=    0 RTR= 0.38987E+07 Alpha= 0.919E+00 DelMax= 0.100E-09
+  iIter=  145 RTR= 0.32380E-05 Alpha= 0.245E+01 DelMax= 0.127E-02
+ DOF = PRES - Global Iteration     7                           - PCCR Solver
+  iIter=    0 RTR= 0.19782E+07 Alpha= 0.962E+00 DelMax= 0.100E-09
+  iIter=  232 RTR= 0.19244E-05 Alpha= 0.232E+01 DelMax= 0.171E-05
+ DOF = PRES - Global Iteration     8                           - PCCR Solver
+  iIter=    0 RTR= 0.12069E+07 Alpha= 0.101E+01 DelMax= 0.100E-09
+  iIter=  192 RTR= 0.11737E-05 Alpha= 0.257E+01 DelMax= 0.362E-05
+ DOF = PRES - Global Iteration     9                           - PCCR Solver
+  iIter=    0 RTR= 0.10052E+07 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  217 RTR= 0.95400E-06 Alpha= 0.271E+01 DelMax= 0.173E-03
+ DOF = PRES - Global Iteration    10                           - PCCR Solver
+  iIter=    0 RTR= 0.81785E+06 Alpha= 0.116E+01 DelMax= 0.100E-09
+  iIter=  282 RTR= 0.68662E-06 Alpha= 0.216E+01 DelMax= 0.711E-04
+ DOF = PRES - Global Iteration    11                           - PCCR Solver
+  iIter=    0 RTR= 0.56283E+06 Alpha= 0.116E+01 DelMax= 0.100E-09
+  iIter=  212 RTR= 0.55224E-06 Alpha= 0.303E+01 DelMax= 0.108E-04
+ DOF = PRES - Global Iteration    12                           - PCCR Solver
+  iIter=    0 RTR= 0.36711E+06 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  139 RTR= 0.29758E-06 Alpha= 0.257E+01 DelMax= 0.718E-05
+ DOF = PRES - Global Iteration    13                           - PCCR Solver
+  iIter=    0 RTR= 0.28609E+06 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  226 RTR= 0.27727E-06 Alpha= 0.252E+01 DelMax= 0.134E-03
+ DOF = PRES - Global Iteration    14                           - PCCR Solver
+  iIter=    0 RTR= 0.24465E+06 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  243 RTR= 0.23277E-06 Alpha= 0.243E+01 DelMax= 0.214E-04
+ DOF = PRES - Global Iteration    15                           - PCCR Solver
+  iIter=    0 RTR= 0.22515E+06 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  262 RTR= 0.21614E-06 Alpha= 0.212E+01 DelMax= 0.660E-05
+ DOF = PRES - Global Iteration    16                           - PCCR Solver
+  iIter=    0 RTR= 0.20149E+06 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  188 RTR= 0.18409E-06 Alpha= 0.240E+01 DelMax= 0.114E-04
+ DOF = PRES - Global Iteration    17                           - PCCR Solver
+  iIter=    0 RTR= 0.18841E+06 Alpha= 0.109E+01 DelMax= 0.100E-09
+  iIter=  269 RTR= 0.17722E-06 Alpha= 0.264E+01 DelMax= 0.186E-04
+ DOF = PRES - Global Iteration    18                           - PCCR Solver
+  iIter=    0 RTR= 0.19249E+06 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  272 RTR= 0.17049E-06 Alpha= 0.227E+01 DelMax= 0.251E-04
+ DOF = PRES - Global Iteration    19                           - PCCR Solver
+  iIter=    0 RTR= 0.19466E+06 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  230 RTR= 0.18333E-06 Alpha= 0.256E+01 DelMax= 0.547E-04
+ DOF = PRES - Global Iteration    20                           - PCCR Solver
+  iIter=    0 RTR= 0.19200E+06 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  184 RTR= 0.15775E-06 Alpha= 0.240E+01 DelMax= 0.619E-04
+ DOF = PRES - Global Iteration    21                           - PCCR Solver
+  iIter=    0 RTR= 0.19117E+06 Alpha= 0.114E+01 DelMax= 0.100E-09
+  iIter=  210 RTR= 0.17125E-06 Alpha= 0.221E+01 DelMax= 0.233E-03
+ DOF = PRES - Global Iteration    22                           - PCCR Solver
+  iIter=    0 RTR= 0.18934E+06 Alpha= 0.115E+01 DelMax= 0.100E-09
+  iIter=  322 RTR= 0.18006E-06 Alpha= 0.262E+01 DelMax= 0.225E-03
+ DOF = PRES - Global Iteration    23                           - PCCR Solver
+  iIter=    0 RTR= 0.18691E+06 Alpha= 0.116E+01 DelMax= 0.100E-09
+  iIter=  321 RTR= 0.18380E-06 Alpha= 0.259E+01 DelMax= 0.485E-02
+ DOF = PRES - Global Iteration    24                           - PCCR Solver
+  iIter=    0 RTR= 0.18082E+06 Alpha= 0.116E+01 DelMax= 0.100E-09
+  iIter=  327 RTR= 0.17477E-06 Alpha= 0.254E+01 DelMax= 0.100E-01
+ DOF = PRES - Global Iteration    25                           - PCCR Solver
+  iIter=    0 RTR= 0.16625E+06 Alpha= 0.116E+01 DelMax= 0.100E-09
+  iIter=  333 RTR= 0.16187E-06 Alpha= 0.234E+01 DelMax= 0.846E-02
+ DOF = PRES - Global Iteration    26                           - PCCR Solver
+  iIter=    0 RTR= 0.14430E+06 Alpha= 0.116E+01 DelMax= 0.100E-09
+  iIter=  341 RTR= 0.14111E-06 Alpha= 0.239E+01 DelMax= 0.182E-01
+ DOF = PRES - Global Iteration    27                           - PCCR Solver
+  iIter=    0 RTR= 0.11999E+06 Alpha= 0.115E+01 DelMax= 0.100E-09
+  iIter=  325 RTR= 0.11915E-06 Alpha= 0.239E+01 DelMax= 0.115E-01
+ DOF = PRES - Global Iteration    28                           - PCCR Solver
+  iIter=    0 RTR= 0.95739E+05 Alpha= 0.115E+01 DelMax= 0.100E-09
+  iIter=  341 RTR= 0.93727E-07 Alpha= 0.226E+01 DelMax= 0.127E-01
+ DOF = PRES - Global Iteration    29                           - PCCR Solver
+  iIter=    0 RTR= 0.71917E+05 Alpha= 0.114E+01 DelMax= 0.100E-09
+  iIter=  374 RTR= 0.69358E-07 Alpha= 0.252E+01 DelMax= 0.469E-02
+ DOF = PRES - Global Iteration    30                           - PCCR Solver
+  iIter=    0 RTR= 0.51460E+05 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  428 RTR= 0.50856E-07 Alpha= 0.244E+01 DelMax= 0.509E-02
+ DOF = PRES - Global Iteration    31                           - PCCR Solver
+  iIter=    0 RTR= 0.36453E+05 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  441 RTR= 0.35667E-07 Alpha= 0.219E+01 DelMax= 0.338E-03
+ DOF = PRES - Global Iteration    32                           - PCCR Solver
+  iIter=    0 RTR= 0.26925E+05 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  451 RTR= 0.26413E-07 Alpha= 0.223E+01 DelMax= 0.373E-02
+ DOF = PRES - Global Iteration    33                           - PCCR Solver
+  iIter=    0 RTR= 0.21527E+05 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  457 RTR= 0.21408E-07 Alpha= 0.219E+01 DelMax= 0.302E-01
+ DOF = PRES - Global Iteration    34                           - PCCR Solver
+  iIter=    0 RTR= 0.17909E+05 Alpha= 0.107E+01 DelMax= 0.100E-09
+  iIter=  481 RTR= 0.17295E-07 Alpha= 0.205E+01 DelMax= 0.854E-02
+ DOF = PRES - Global Iteration    35                           - PCCR Solver
+  iIter=    0 RTR= 0.15313E+05 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  483 RTR= 0.15265E-07 Alpha= 0.226E+01 DelMax= 0.201E-02
+ DOF = PRES - Global Iteration    36                           - PCCR Solver
+  iIter=    0 RTR= 0.13360E+05 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  480 RTR= 0.12755E-07 Alpha= 0.239E+01 DelMax= 0.701E-02
+ DOF = PRES - Global Iteration    37                           - PCCR Solver
+  iIter=    0 RTR= 0.11735E+05 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  481 RTR= 0.11251E-07 Alpha= 0.228E+01 DelMax= 0.119E-01
+ DOF = PRES - Global Iteration    38                           - PCCR Solver
+  iIter=    0 RTR= 0.10683E+05 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  486 RTR= 0.10274E-07 Alpha= 0.238E+01 DelMax= 0.977E-02
+ DOF = PRES - Global Iteration    39                           - PCCR Solver
+  iIter=    0 RTR= 0.99624E+04 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  481 RTR= 0.97337E-08 Alpha= 0.245E+01 DelMax= 0.943E-03
+ DOF = PRES - Global Iteration    40                           - PCCR Solver
+  iIter=    0 RTR= 0.93668E+04 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  478 RTR= 0.93106E-08 Alpha= 0.220E+01 DelMax= 0.808E-02
+ DOF = PRES - Global Iteration    41                           - PCCR Solver
+  iIter=    0 RTR= 0.89742E+04 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  474 RTR= 0.88649E-08 Alpha= 0.221E+01 DelMax= 0.327E-02
+ DOF = PRES - Global Iteration    42                           - PCCR Solver
+  iIter=    0 RTR= 0.84207E+04 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  473 RTR= 0.81504E-08 Alpha= 0.233E+01 DelMax= 0.371E-01
+ DOF = PRES - Global Iteration    43                           - PCCR Solver
+  iIter=    0 RTR= 0.78267E+04 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  454 RTR= 0.76100E-08 Alpha= 0.190E+01 DelMax= 0.482E-03
+ DOF = PRES - Global Iteration    44                           - PCCR Solver
+  iIter=    0 RTR= 0.73782E+04 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  446 RTR= 0.72194E-08 Alpha= 0.198E+01 DelMax= 0.202E-01
+ DOF = PRES - Global Iteration    45                           - PCCR Solver
+  iIter=    0 RTR= 0.69764E+04 Alpha= 0.104E+01 DelMax= 0.100E-09
+  iIter=  447 RTR= 0.66292E-08 Alpha= 0.194E+01 DelMax= 0.814E-02
+ DOF = PRES - Global Iteration    46                           - PCCR Solver
+  iIter=    0 RTR= 0.66839E+04 Alpha= 0.104E+01 DelMax= 0.100E-09
+  iIter=  446 RTR= 0.66019E-08 Alpha= 0.202E+01 DelMax= 0.531E-02
+ DOF = PRES - Global Iteration    47                           - PCCR Solver
+  iIter=    0 RTR= 0.60808E+04 Alpha= 0.104E+01 DelMax= 0.100E-09
+  iIter=  446 RTR= 0.60067E-08 Alpha= 0.217E+01 DelMax= 0.392E-01
+ DOF = PRES - Global Iteration    48                           - PCCR Solver
+  iIter=    0 RTR= 0.52837E+04 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  439 RTR= 0.52539E-08 Alpha= 0.201E+01 DelMax= 0.980E-01
+ DOF = PRES - Global Iteration    49                           - PCCR Solver
+  iIter=    0 RTR= 0.47452E+04 Alpha= 0.104E+01 DelMax= 0.100E-09
+  iIter=  433 RTR= 0.47213E-08 Alpha= 0.251E+01 DelMax= 0.147E-02
+ DOF = PRES - Global Iteration    50                           - PCCR Solver
+  iIter=    0 RTR= 0.44644E+04 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  418 RTR= 0.44338E-08 Alpha= 0.186E+01 DelMax= 0.646E-03
+ DOF = PRES - Global Iteration    51                           - PCCR Solver
+  iIter=    0 RTR= 0.40974E+04 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  410 RTR= 0.39921E-08 Alpha= 0.204E+01 DelMax= 0.948E-03
+ DOF = PRES - Global Iteration    52                           - PCCR Solver
+  iIter=    0 RTR= 0.36565E+04 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  399 RTR= 0.35626E-08 Alpha= 0.232E+01 DelMax= 0.617E-03
+ DOF = PRES - Global Iteration    53                           - PCCR Solver
+  iIter=    0 RTR= 0.33614E+04 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  393 RTR= 0.33157E-08 Alpha= 0.288E+01 DelMax= 0.204E-02
+ DOF = PRES - Global Iteration    54                           - PCCR Solver
+  iIter=    0 RTR= 0.31958E+04 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  389 RTR= 0.31199E-08 Alpha= 0.211E+01 DelMax= 0.154E-02
+ DOF = PRES - Global Iteration    55                           - PCCR Solver
+  iIter=    0 RTR= 0.29233E+04 Alpha= 0.109E+01 DelMax= 0.100E-09
+  iIter=  397 RTR= 0.29201E-08 Alpha= 0.219E+01 DelMax= 0.248E-03
+ DOF = PRES - Global Iteration    56                           - PCCR Solver
+  iIter=    0 RTR= 0.25651E+04 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  386 RTR= 0.25437E-08 Alpha= 0.191E+01 DelMax= 0.751E-03
+ DOF = PRES - Global Iteration    57                           - PCCR Solver
+  iIter=    0 RTR= 0.22471E+04 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  379 RTR= 0.21682E-08 Alpha= 0.245E+01 DelMax= 0.190E-01
+ DOF = PRES - Global Iteration    58                           - PCCR Solver
+  iIter=    0 RTR= 0.21027E+04 Alpha= 0.109E+01 DelMax= 0.100E-09
+  iIter=  378 RTR= 0.19881E-08 Alpha= 0.214E+01 DelMax= 0.559E-02
+ DOF = PRES - Global Iteration    59                           - PCCR Solver
+  iIter=    0 RTR= 0.21799E+04 Alpha= 0.109E+01 DelMax= 0.100E-09
+  iIter=  383 RTR= 0.20940E-08 Alpha= 0.193E+01 DelMax= 0.498E-02
+ DOF = PRES - Global Iteration    60                           - PCCR Solver
+  iIter=    0 RTR= 0.21119E+04 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  387 RTR= 0.20558E-08 Alpha= 0.188E+01 DelMax= 0.638E-02
+ DOF = PRES - Global Iteration    61                           - PCCR Solver
+  iIter=    0 RTR= 0.18914E+04 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  401 RTR= 0.18352E-08 Alpha= 0.225E+01 DelMax= 0.214E-01
+ DOF = PRES - Global Iteration    62                           - PCCR Solver
+  iIter=    0 RTR= 0.17217E+04 Alpha= 0.114E+01 DelMax= 0.100E-09
+  iIter=  404 RTR= 0.16673E-08 Alpha= 0.191E+01 DelMax= 0.882E-02
+ DOF = PRES - Global Iteration    63                           - PCCR Solver
+  iIter=    0 RTR= 0.16670E+04 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  405 RTR= 0.15716E-08 Alpha= 0.261E+01 DelMax= 0.287E-02
+ DOF = PRES - Global Iteration    64                           - PCCR Solver
+  iIter=    0 RTR= 0.16948E+04 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  388 RTR= 0.16496E-08 Alpha= 0.231E+01 DelMax= 0.119E-02
+ DOF = PRES - Global Iteration    65                           - PCCR Solver
+  iIter=    0 RTR= 0.16151E+04 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  397 RTR= 0.15937E-08 Alpha= 0.217E+01 DelMax= 0.977E-03
+ DOF = PRES - Global Iteration    66                           - PCCR Solver
+  iIter=    0 RTR= 0.14309E+04 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  402 RTR= 0.13949E-08 Alpha= 0.228E+01 DelMax= 0.294E-02
+ DOF = PRES - Global Iteration    67                           - PCCR Solver
+  iIter=    0 RTR= 0.12677E+04 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  406 RTR= 0.12277E-08 Alpha= 0.225E+01 DelMax= 0.120E-02
+ DOF = PRES - Global Iteration    68                           - PCCR Solver
+  iIter=    0 RTR= 0.12251E+04 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  402 RTR= 0.11970E-08 Alpha= 0.271E+01 DelMax= 0.873E-03
+ DOF = PRES - Global Iteration    69                           - PCCR Solver
+  iIter=    0 RTR= 0.11965E+04 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  394 RTR= 0.11901E-08 Alpha= 0.221E+01 DelMax= 0.421E-03
+ DOF = PRES - Global Iteration    70                           - PCCR Solver
+  iIter=    0 RTR= 0.11051E+04 Alpha= 0.112E+01 DelMax= 0.100E-09
+  iIter=  388 RTR= 0.10862E-08 Alpha= 0.207E+01 DelMax= 0.472E-01
+ DOF = PRES - Global Iteration    71                           - PCCR Solver
+  iIter=    0 RTR= 0.97445E+03 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  389 RTR= 0.96986E-09 Alpha= 0.239E+01 DelMax= 0.144E-03
+ DOF = PRES - Global Iteration    72                           - PCCR Solver
+  iIter=    0 RTR= 0.87866E+03 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  386 RTR= 0.87849E-09 Alpha= 0.203E+01 DelMax= 0.788E-03
+ DOF = PRES - Global Iteration    73                           - PCCR Solver
+  iIter=    0 RTR= 0.86526E+03 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  381 RTR= 0.84928E-09 Alpha= 0.247E+01 DelMax= 0.197E-02
+ DOF = PRES - Global Iteration    74                           - PCCR Solver
+  iIter=    0 RTR= 0.83211E+03 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  381 RTR= 0.82686E-09 Alpha= 0.224E+01 DelMax= 0.181E-02
+ DOF = PRES - Global Iteration    75                           - PCCR Solver
+  iIter=    0 RTR= 0.76987E+03 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  381 RTR= 0.75512E-09 Alpha= 0.198E+01 DelMax= 0.130E-02
+ DOF = PRES - Global Iteration    76                           - PCCR Solver
+  iIter=    0 RTR= 0.68843E+03 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  383 RTR= 0.66280E-09 Alpha= 0.205E+01 DelMax= 0.955E-03
+ DOF = PRES - Global Iteration    77                           - PCCR Solver
+  iIter=    0 RTR= 0.25858E+04 Alpha= 0.107E+01 DelMax= 0.100E-09
+  iIter=  348 RTR= 0.25716E-08 Alpha= 0.203E+01 DelMax= 0.204E-01
+ DOF = PRES - Global Iteration    78                           - PCCR Solver
+  iIter=    0 RTR= 0.65375E+03 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  381 RTR= 0.62267E-09 Alpha= 0.202E+01 DelMax= 0.201E-02
+ DOF = PRES - Global Iteration    79                           - PCCR Solver
+  iIter=    0 RTR= 0.66681E+03 Alpha= 0.109E+01 DelMax= 0.100E-09
+  iIter=  389 RTR= 0.66179E-09 Alpha= 0.200E+01 DelMax= 0.183E-03
+ DOF = PRES - Global Iteration    80                           - PCCR Solver
+  iIter=    0 RTR= 0.64193E+03 Alpha= 0.111E+01 DelMax= 0.100E-09
+  iIter=  398 RTR= 0.62804E-09 Alpha= 0.219E+01 DelMax= 0.405E-01
+ DOF = PRES - Global Iteration    81                           - PCCR Solver
+  iIter=    0 RTR= 0.54007E+03 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  398 RTR= 0.53130E-09 Alpha= 0.221E+01 DelMax= 0.897E-02
+ DOF = PRES - Global Iteration    82                           - PCCR Solver
+  iIter=    0 RTR= 0.44248E+03 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  362 RTR= 0.43828E-09 Alpha= 0.235E+01 DelMax= 0.172E-01
+ DOF = PRES - Global Iteration    83                           - PCCR Solver
+  iIter=    0 RTR= 0.45433E+03 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  368 RTR= 0.44067E-09 Alpha= 0.231E+01 DelMax= 0.955E-03
+ DOF = PRES - Global Iteration    84                           - PCCR Solver
+  iIter=    0 RTR= 0.37286E+03 Alpha= 0.107E+01 DelMax= 0.100E-09
+  iIter=  359 RTR= 0.36994E-09 Alpha= 0.182E+01 DelMax= 0.660E-03
+ DOF = PRES - Global Iteration    85                           - PCCR Solver
+  iIter=    0 RTR= 0.32575E+03 Alpha= 0.107E+01 DelMax= 0.100E-09
+  iIter=  355 RTR= 0.31620E-09 Alpha= 0.189E+01 DelMax= 0.263E-03
+ DOF = PRES - Global Iteration    86                           - PCCR Solver
+  iIter=    0 RTR= 0.27787E+03 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  373 RTR= 0.26841E-09 Alpha= 0.248E+01 DelMax= 0.732E-03
+ DOF = PRES - Global Iteration    87                           - PCCR Solver
+  iIter=    0 RTR= 0.23291E+03 Alpha= 0.107E+01 DelMax= 0.100E-09
+  iIter=  375 RTR= 0.22994E-09 Alpha= 0.198E+01 DelMax= 0.739E-03
+ DOF = PRES - Global Iteration    88                           - PCCR Solver
+  iIter=    0 RTR= 0.22741E+03 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  372 RTR= 0.22700E-09 Alpha= 0.228E+01 DelMax= 0.331E-02
+ DOF = PRES - Global Iteration    89                           - PCCR Solver
+  iIter=    0 RTR= 0.18295E+03 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  382 RTR= 0.18118E-09 Alpha= 0.184E+01 DelMax= 0.237E-03
+ DOF = PRES - Global Iteration    90                           - PCCR Solver
+  iIter=    0 RTR= 0.16105E+03 Alpha= 0.107E+01 DelMax= 0.100E-09
+  iIter=  381 RTR= 0.16006E-09 Alpha= 0.187E+01 DelMax= 0.108E-02
+ DOF = PRES - Global Iteration    91                           - PCCR Solver
+  iIter=    0 RTR= 0.14550E+03 Alpha= 0.108E+01 DelMax= 0.100E-09
+  iIter=  389 RTR= 0.14388E-09 Alpha= 0.197E+01 DelMax= 0.230E-03
+ DOF = PRES - Global Iteration    92                           - PCCR Solver
+  iIter=    0 RTR= 0.13052E+03 Alpha= 0.104E+01 DelMax= 0.100E-09
+  iIter=  375 RTR= 0.12626E-09 Alpha= 0.190E+01 DelMax= 0.392E-02
+ DOF = PRES - Global Iteration    93                           - PCCR Solver
+  iIter=    0 RTR= 0.14706E+03 Alpha= 0.103E+01 DelMax= 0.100E-09
+  iIter=  351 RTR= 0.14301E-09 Alpha= 0.231E+01 DelMax= 0.228E-02
+ DOF = PRES - Global Iteration    94                           - PCCR Solver
+  iIter=    0 RTR= 0.13443E+03 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  356 RTR= 0.13060E-09 Alpha= 0.210E+01 DelMax= 0.380E-03
+ DOF = PRES - Global Iteration    95                           - PCCR Solver
+  iIter=    0 RTR= 0.11478E+03 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  339 RTR= 0.11172E-09 Alpha= 0.259E+01 DelMax= 0.388E-02
+ DOF = PRES - Global Iteration    96                           - PCCR Solver
+  iIter=    0 RTR= 0.10110E+03 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  352 RTR= 0.97438E-10 Alpha= 0.199E+01 DelMax= 0.309E-02
+ DOF = PRES - Global Iteration    97                           - PCCR Solver
+  iIter=    0 RTR= 0.90124E+02 Alpha= 0.104E+01 DelMax= 0.100E-09
+  iIter=  364 RTR= 0.88276E-10 Alpha= 0.251E+01 DelMax= 0.843E-03
+ DOF = PRES - Global Iteration    98                           - PCCR Solver
+  iIter=    0 RTR= 0.19412E+04 Alpha= 0.106E+01 DelMax= 0.100E-09
+  iIter=  271 RTR= 0.19406E-08 Alpha= 0.180E+01 DelMax= 0.112E-02
+ DOF = PRES - Global Iteration    99                           - PCCR Solver
+  iIter=    0 RTR= 0.17159E+03 Alpha= 0.110E+01 DelMax= 0.100E-09
+  iIter=  321 RTR= 0.16254E-09 Alpha= 0.217E+01 DelMax= 0.108E-02
+ DOF = PRES - Global Iteration   100                           - PCCR Solver
+  iIter=    0 RTR= 0.24085E+03 Alpha= 0.105E+01 DelMax= 0.100E-09
+  iIter=  321 RTR= 0.22759E-09 Alpha= 0.218E+01 DelMax= 0.195E-02
+ DOF = PRES - Global Iteration     1                           - PCCR Solver
+  iIter=    0 RTR= 0.21413E+10 Alpha= 0.954E+00 DelMax= 0.100E-09
+  iIter=  147 RTR= 0.21100E-02 Alpha= 0.227E+01 DelMax= 0.294E-03
+ DOF = PRES - Global Iteration     2                           - PCCR Solver
+  iIter=    0 RTR= 0.40342E+09 Alpha= 0.912E+00 DelMax= 0.100E-09
+  iIter=  143 RTR= 0.37050E-03 Alpha= 0.239E+01 DelMax= 0.346E-05
+ DOF = PRES - Global Iteration     3                           - PCCR Solver
+  iIter=    0 RTR= 0.40283E+09 Alpha= 0.802E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.81658E+08 Alpha= 0.267E-09 DelMax= 0.276E-10
+ DOF = PRES - Global Iteration     4                           - PCCR Solver
+  iIter=    0 RTR= 0.35591E+09 Alpha= 0.943E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   32 RTR= 0.46345E+08 Alpha=-0.985E-10 DelMax= 0.163E-10
+ DOF = PRES - Global Iteration     5                           - PCCR Solver
+  iIter=    0 RTR= 0.20502E+09 Alpha= 0.895E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   26 RTR= 0.78638E+08 Alpha=-0.468E-09 DelMax= 0.820E-10
+ DOF = PRES - Global Iteration     6                           - PCCR Solver
+  iIter=    0 RTR= 0.20650E+09 Alpha= 0.894E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   20 RTR= 0.12052E+09 Alpha=-0.670E-10 DelMax= 0.156E-10
+ DOF = PRES - Global Iteration     7                           - PCCR Solver
+  iIter=    0 RTR= 0.22606E+09 Alpha= 0.898E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.16553E+09 Alpha=-0.141E-10 DelMax= 0.329E-11
+ DOF = PRES - Global Iteration     8                           - PCCR Solver
+  iIter=    0 RTR= 0.26022E+09 Alpha= 0.923E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.21562E+09 Alpha= 0.314E-09 DelMax= 0.823E-10
+ DOF = PRES - Global Iteration     9                           - PCCR Solver
+  iIter=    0 RTR= 0.30582E+09 Alpha= 0.972E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.26846E+09 Alpha= 0.768E-10 DelMax= 0.341E-10
+ DOF = PRES - Global Iteration    10                           - PCCR Solver
+  iIter=    0 RTR= 0.35521E+09 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.31981E+09 Alpha= 0.342E-10 DelMax= 0.235E-10
+ DOF = PRES - Global Iteration    11                           - PCCR Solver
+  iIter=    0 RTR= 0.39886E+09 Alpha= 0.108E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.36541E+09 Alpha= 0.841E-11 DelMax= 0.867E-11
+ DOF = PRES - Global Iteration    12                           - PCCR Solver
+  iIter=    0 RTR= 0.43488E+09 Alpha= 0.109E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.40357E+09 Alpha= 0.933E-10 DelMax= 0.174E-10
+ DOF = PRES - Global Iteration    13                           - PCCR Solver
+  iIter=    0 RTR= 0.46343E+09 Alpha= 0.110E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.43376E+09 Alpha=-0.205E-10 DelMax= 0.718E-11
+ DOF = PRES - Global Iteration    14                           - PCCR Solver
+  iIter=    0 RTR= 0.48701E+09 Alpha= 0.114E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.45715E+09 Alpha=-0.193E-10 DelMax= 0.959E-11
+ DOF = PRES - Global Iteration    15                           - PCCR Solver
+  iIter=    0 RTR= 0.50820E+09 Alpha= 0.122E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.47561E+09 Alpha=-0.173E-10 DelMax= 0.107E-10
+ DOF = PRES - Global Iteration    16                           - PCCR Solver
+  iIter=    0 RTR= 0.52416E+09 Alpha= 0.129E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.49013E+09 Alpha= 0.216E-10 DelMax= 0.888E-10
+ DOF = PRES - Global Iteration    17                           - PCCR Solver
+  iIter=    0 RTR= 0.53577E+09 Alpha= 0.136E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.50164E+09 Alpha=-0.128E-11 DelMax= 0.381E-11
+ DOF = PRES - Global Iteration    18                           - PCCR Solver
+  iIter=    0 RTR= 0.54484E+09 Alpha= 0.141E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.51116E+09 Alpha= 0.683E-12 DelMax= 0.519E-10
+ DOF = PRES - Global Iteration    19                           - PCCR Solver
+  iIter=    0 RTR= 0.54922E+09 Alpha= 0.147E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.51924E+09 Alpha=-0.500E-11 DelMax= 0.211E-10
+ DOF = PRES - Global Iteration    20                           - PCCR Solver
+  iIter=    0 RTR= 0.55405E+09 Alpha= 0.152E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.52689E+09 Alpha=-0.105E-11 DelMax= 0.917E-11
+ DOF = PRES - Global Iteration    21                           - PCCR Solver
+  iIter=    0 RTR= 0.55930E+09 Alpha= 0.158E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.53507E+09 Alpha= 0.172E-12 DelMax= 0.332E-10
+ DOF = PRES - Global Iteration    22                           - PCCR Solver
+  iIter=    0 RTR= 0.56474E+09 Alpha= 0.164E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.54438E+09 Alpha=-0.165E-11 DelMax= 0.339E-10
+ DOF = PRES - Global Iteration    23                           - PCCR Solver
+  iIter=    0 RTR= 0.57112E+09 Alpha= 0.170E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.55497E+09 Alpha= 0.223E-11 DelMax= 0.113E-10
+ DOF = PRES - Global Iteration    24                           - PCCR Solver
+  iIter=    0 RTR= 0.57832E+09 Alpha= 0.173E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.56675E+09 Alpha=-0.135E-12 DelMax= 0.164E-11
+ DOF = PRES - Global Iteration    25                           - PCCR Solver
+  iIter=    0 RTR= 0.58796E+09 Alpha= 0.172E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.57944E+09 Alpha=-0.614E-13 DelMax= 0.151E-11
+ DOF = PRES - Global Iteration    26                           - PCCR Solver
+  iIter=    0 RTR= 0.59868E+09 Alpha= 0.166E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.59271E+09 Alpha=-0.468E-13 DelMax= 0.335E-11
+ DOF = PRES - Global Iteration    27                           - PCCR Solver
+  iIter=    0 RTR= 0.61063E+09 Alpha= 0.154E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.60633E+09 Alpha=-0.238E-14 DelMax= 0.241E-11
+ DOF = PRES - Global Iteration    28                           - PCCR Solver
+  iIter=    0 RTR= 0.62327E+09 Alpha= 0.141E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.61990E+09 Alpha=-0.783E-14 DelMax= 0.117E-11
+ DOF = PRES - Global Iteration    29                           - PCCR Solver
+  iIter=    0 RTR= 0.63613E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.63328E+09 Alpha=-0.247E-13 DelMax= 0.139E-10
+ DOF = PRES - Global Iteration    30                           - PCCR Solver
+  iIter=    0 RTR= 0.64837E+09 Alpha= 0.118E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.64586E+09 Alpha=-0.495E-13 DelMax= 0.184E-10
+ DOF = PRES - Global Iteration    31                           - PCCR Solver
+  iIter=    0 RTR= 0.66031E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.65775E+09 Alpha=-0.760E-13 DelMax= 0.196E-10
+ DOF = PRES - Global Iteration    32                           - PCCR Solver
+  iIter=    0 RTR= 0.67109E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.66837E+09 Alpha= 0.496E-14 DelMax= 0.816E-11
+ DOF = PRES - Global Iteration    33                           - PCCR Solver
+  iIter=    0 RTR= 0.68027E+09 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.67731E+09 Alpha=-0.212E-13 DelMax= 0.716E-11
+ DOF = PRES - Global Iteration    34                           - PCCR Solver
+  iIter=    0 RTR= 0.68646E+09 Alpha= 0.123E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.68348E+09 Alpha=-0.751E-12 DelMax= 0.781E-11
+ DOF = PRES - Global Iteration    35                           - PCCR Solver
+  iIter=    0 RTR= 0.69003E+09 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.68708E+09 Alpha= 0.103E-12 DelMax= 0.149E-10
+ DOF = PRES - Global Iteration    36                           - PCCR Solver
+  iIter=    0 RTR= 0.69138E+09 Alpha= 0.132E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.68848E+09 Alpha=-0.221E-14 DelMax= 0.126E-11
+ DOF = PRES - Global Iteration    37                           - PCCR Solver
+  iIter=    0 RTR= 0.69115E+09 Alpha= 0.138E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.68831E+09 Alpha=-0.531E-14 DelMax= 0.441E-11
+ DOF = PRES - Global Iteration    38                           - PCCR Solver
+  iIter=    0 RTR= 0.68967E+09 Alpha= 0.146E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.68690E+09 Alpha=-0.951E-14 DelMax= 0.381E-10
+ DOF = PRES - Global Iteration    39                           - PCCR Solver
+  iIter=    0 RTR= 0.68731E+09 Alpha= 0.141E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.68500E+09 Alpha= 0.192E-14 DelMax= 0.210E-11
+ DOF = PRES - Global Iteration    40                           - PCCR Solver
+  iIter=    0 RTR= 0.68596E+09 Alpha= 0.147E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.68356E+09 Alpha= 0.776E-11 DelMax= 0.629E-10
+ DOF = PRES - Global Iteration    41                           - PCCR Solver
+  iIter=    0 RTR= 0.68522E+09 Alpha= 0.164E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.68251E+09 Alpha= 0.150E-11 DelMax= 0.485E-10
+ DOF = PRES - Global Iteration    42                           - PCCR Solver
+  iIter=    0 RTR= 0.68387E+09 Alpha= 0.181E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.68128E+09 Alpha= 0.820E-13 DelMax= 0.771E-12
+ DOF = PRES - Global Iteration    43                           - PCCR Solver
+  iIter=    0 RTR= 0.68146E+09 Alpha= 0.176E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.67934E+09 Alpha=-0.591E-15 DelMax= 0.930E-11
+ DOF = PRES - Global Iteration    44                           - PCCR Solver
+  iIter=    0 RTR= 0.68077E+09 Alpha= 0.168E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.67885E+09 Alpha=-0.127E-13 DelMax= 0.610E-11
+ DOF = PRES - Global Iteration    45                           - PCCR Solver
+  iIter=    0 RTR= 0.68259E+09 Alpha= 0.161E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.68075E+09 Alpha=-0.105E-12 DelMax= 0.516E-10
+ DOF = PRES - Global Iteration    46                           - PCCR Solver
+  iIter=    0 RTR= 0.68637E+09 Alpha= 0.163E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.68443E+09 Alpha= 0.240E-13 DelMax= 0.220E-11
+ DOF = PRES - Global Iteration    47                           - PCCR Solver
+  iIter=    0 RTR= 0.69078E+09 Alpha= 0.167E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.68880E+09 Alpha=-0.255E-13 DelMax= 0.112E-10
+ DOF = PRES - Global Iteration    48                           - PCCR Solver
+  iIter=    0 RTR= 0.69509E+09 Alpha= 0.157E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.69331E+09 Alpha=-0.290E-13 DelMax= 0.378E-10
+ DOF = PRES - Global Iteration    49                           - PCCR Solver
+  iIter=    0 RTR= 0.70007E+09 Alpha= 0.142E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.69844E+09 Alpha=-0.781E-14 DelMax= 0.259E-10
+ DOF = PRES - Global Iteration    50                           - PCCR Solver
+  iIter=    0 RTR= 0.70628E+09 Alpha= 0.126E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.70474E+09 Alpha=-0.602E-14 DelMax= 0.296E-11
+ DOF = PRES - Global Iteration    51                           - PCCR Solver
+  iIter=    0 RTR= 0.71392E+09 Alpha= 0.116E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.71238E+09 Alpha=-0.445E-14 DelMax= 0.271E-10
+ DOF = PRES - Global Iteration    52                           - PCCR Solver
+  iIter=    0 RTR= 0.72243E+09 Alpha= 0.103E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.72097E+09 Alpha=-0.291E-14 DelMax= 0.223E-10
+ DOF = PRES - Global Iteration    53                           - PCCR Solver
+  iIter=    0 RTR= 0.73159E+09 Alpha= 0.924E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.73020E+09 Alpha=-0.157E-14 DelMax= 0.234E-11
+ DOF = PRES - Global Iteration    54                           - PCCR Solver
+  iIter=    0 RTR= 0.74126E+09 Alpha= 0.840E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.73995E+09 Alpha= 0.666E-13 DelMax= 0.795E-10
+ DOF = PRES - Global Iteration    55                           - PCCR Solver
+  iIter=    0 RTR= 0.75112E+09 Alpha= 0.799E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.74988E+09 Alpha=-0.259E-15 DelMax= 0.190E-11
+ DOF = PRES - Global Iteration    56                           - PCCR Solver
+  iIter=    0 RTR= 0.76058E+09 Alpha= 0.778E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.75940E+09 Alpha= 0.641E-14 DelMax= 0.550E-10
+ DOF = PRES - Global Iteration    57                           - PCCR Solver
+  iIter=    0 RTR= 0.76906E+09 Alpha= 0.822E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.76776E+09 Alpha= 0.210E-14 DelMax= 0.812E-11
+ DOF = PRES - Global Iteration    58                           - PCCR Solver
+  iIter=    0 RTR= 0.77572E+09 Alpha= 0.857E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.77431E+09 Alpha= 0.128E-14 DelMax= 0.209E-10
+ DOF = PRES - Global Iteration    59                           - PCCR Solver
+  iIter=    0 RTR= 0.78045E+09 Alpha= 0.903E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.77885E+09 Alpha= 0.177E-14 DelMax= 0.197E-11
+ DOF = PRES - Global Iteration    60                           - PCCR Solver
+  iIter=    0 RTR= 0.78364E+09 Alpha= 0.906E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.78192E+09 Alpha= 0.578E-14 DelMax= 0.199E-10
+ DOF = PRES - Global Iteration    61                           - PCCR Solver
+  iIter=    0 RTR= 0.78641E+09 Alpha= 0.870E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.78463E+09 Alpha= 0.240E-13 DelMax= 0.393E-10
+ DOF = PRES - Global Iteration    62                           - PCCR Solver
+  iIter=    0 RTR= 0.79005E+09 Alpha= 0.751E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.78841E+09 Alpha=-0.173E-14 DelMax= 0.945E-11
+ DOF = PRES - Global Iteration    63                           - PCCR Solver
+  iIter=    0 RTR= 0.79577E+09 Alpha= 0.669E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.79417E+09 Alpha=-0.360E-14 DelMax= 0.562E-11
+ DOF = PRES - Global Iteration    64                           - PCCR Solver
+  iIter=    0 RTR= 0.80337E+09 Alpha= 0.518E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.80237E+09 Alpha=-0.423E-14 DelMax= 0.544E-11
+ DOF = PRES - Global Iteration    65                           - PCCR Solver
+  iIter=    0 RTR= 0.81259E+09 Alpha= 0.696E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.81128E+09 Alpha= 0.517E-13 DelMax= 0.459E-10
+ DOF = PRES - Global Iteration    66                           - PCCR Solver
+  iIter=    0 RTR= 0.82078E+09 Alpha= 0.446E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.82042E+09 Alpha= 0.399E-14 DelMax= 0.416E-10
+ DOF = PRES - Global Iteration    67                           - PCCR Solver
+  iIter=    0 RTR= 0.82969E+09 Alpha= 0.709E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.82885E+09 Alpha=-0.519E-12 DelMax= 0.311E-10
+ DOF = PRES - Global Iteration    68                           - PCCR Solver
+  iIter=    0 RTR= 0.83439E+09 Alpha= 0.650E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.83370E+09 Alpha=-0.260E-14 DelMax= 0.267E-10
+ DOF = PRES - Global Iteration    69                           - PCCR Solver
+  iIter=    0 RTR= 0.83686E+09 Alpha= 0.573E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.83631E+09 Alpha= 0.237E-12 DelMax= 0.119E-10
+ DOF = PRES - Global Iteration    70                           - PCCR Solver
+  iIter=    0 RTR= 0.83812E+09 Alpha= 0.535E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.83761E+09 Alpha=-0.344E-14 DelMax= 0.609E-12
+ DOF = PRES - Global Iteration    71                           - PCCR Solver
+  iIter=    0 RTR= 0.83795E+09 Alpha= 0.527E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.83738E+09 Alpha= 0.726E-13 DelMax= 0.132E-11
+ DOF = PRES - Global Iteration    72                           - PCCR Solver
+  iIter=    0 RTR= 0.83579E+09 Alpha= 0.532E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.83514E+09 Alpha= 0.211E-15 DelMax= 0.283E-11
+ DOF = PRES - Global Iteration    73                           - PCCR Solver
+  iIter=    0 RTR= 0.83146E+09 Alpha= 0.540E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.83072E+09 Alpha= 0.586E-13 DelMax= 0.562E-10
+ DOF = PRES - Global Iteration    74                           - PCCR Solver
+  iIter=    0 RTR= 0.82503E+09 Alpha= 0.542E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.82426E+09 Alpha= 0.246E-11 DelMax= 0.640E-10
+ DOF = PRES - Global Iteration    75                           - PCCR Solver
+  iIter=    0 RTR= 0.81717E+09 Alpha= 0.545E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.81639E+09 Alpha=-0.117E-13 DelMax= 0.541E-11
+ DOF = PRES - Global Iteration    76                           - PCCR Solver
+  iIter=    0 RTR= 0.80849E+09 Alpha= 0.551E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    7 RTR= 0.80771E+09 Alpha=-0.638E-16 DelMax= 0.145E-12
+ DOF = PRES - Global Iteration    77                           - PCCR Solver
+  iIter=    0 RTR= 0.79944E+09 Alpha= 0.560E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.79867E+09 Alpha= 0.108E-13 DelMax= 0.659E-10
+ DOF = PRES - Global Iteration    78                           - PCCR Solver
+  iIter=    0 RTR= 0.79018E+09 Alpha= 0.566E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.78942E+09 Alpha= 0.139E-15 DelMax= 0.341E-12
+ DOF = PRES - Global Iteration    79                           - PCCR Solver
+  iIter=    0 RTR= 0.78108E+09 Alpha= 0.570E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.78033E+09 Alpha= 0.413E-12 DelMax= 0.489E-10
+ DOF = PRES - Global Iteration    80                           - PCCR Solver
+  iIter=    0 RTR= 0.77182E+09 Alpha= 0.568E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.77111E+09 Alpha=-0.483E-12 DelMax= 0.501E-10
+ DOF = PRES - Global Iteration    81                           - PCCR Solver
+  iIter=    0 RTR= 0.76288E+09 Alpha= 0.572E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.76220E+09 Alpha=-0.170E-11 DelMax= 0.463E-10
+ DOF = PRES - Global Iteration    82                           - PCCR Solver
+  iIter=    0 RTR= 0.75423E+09 Alpha= 0.578E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.75355E+09 Alpha=-0.107E-11 DelMax= 0.193E-10
+ DOF = PRES - Global Iteration    83                           - PCCR Solver
+  iIter=    0 RTR= 0.74574E+09 Alpha= 0.583E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.74507E+09 Alpha=-0.396E-11 DelMax= 0.443E-10
+ DOF = PRES - Global Iteration    84                           - PCCR Solver
+  iIter=    0 RTR= 0.73735E+09 Alpha= 0.586E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.73669E+09 Alpha= 0.907E-15 DelMax= 0.645E-12
+ DOF = PRES - Global Iteration    85                           - PCCR Solver
+  iIter=    0 RTR= 0.72901E+09 Alpha= 0.589E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.72836E+09 Alpha= 0.128E-14 DelMax= 0.569E-11
+ DOF = PRES - Global Iteration    86                           - PCCR Solver
+  iIter=    0 RTR= 0.72067E+09 Alpha= 0.591E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.72004E+09 Alpha= 0.198E-14 DelMax= 0.939E-11
+ DOF = PRES - Global Iteration    87                           - PCCR Solver
+  iIter=    0 RTR= 0.71229E+09 Alpha= 0.594E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.71167E+09 Alpha= 0.252E-14 DelMax= 0.480E-11
+ DOF = PRES - Global Iteration    88                           - PCCR Solver
+  iIter=    0 RTR= 0.70384E+09 Alpha= 0.597E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.70323E+09 Alpha= 0.331E-14 DelMax= 0.555E-11
+ DOF = PRES - Global Iteration    89                           - PCCR Solver
+  iIter=    0 RTR= 0.69529E+09 Alpha= 0.600E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.69469E+09 Alpha= 0.313E-14 DelMax= 0.115E-11
+ DOF = PRES - Global Iteration    90                           - PCCR Solver
+  iIter=    0 RTR= 0.68665E+09 Alpha= 0.605E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.68606E+09 Alpha= 0.341E-14 DelMax= 0.841E-11
+ DOF = PRES - Global Iteration    91                           - PCCR Solver
+  iIter=    0 RTR= 0.67792E+09 Alpha= 0.609E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.67734E+09 Alpha= 0.310E-14 DelMax= 0.388E-11
+ DOF = PRES - Global Iteration    92                           - PCCR Solver
+  iIter=    0 RTR= 0.66912E+09 Alpha= 0.613E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.66856E+09 Alpha= 0.269E-14 DelMax= 0.952E-11
+ DOF = PRES - Global Iteration    93                           - PCCR Solver
+  iIter=    0 RTR= 0.66026E+09 Alpha= 0.617E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.65971E+09 Alpha= 0.213E-14 DelMax= 0.494E-10
+ DOF = PRES - Global Iteration    94                           - PCCR Solver
+  iIter=    0 RTR= 0.65138E+09 Alpha= 0.620E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.65085E+09 Alpha= 0.137E-14 DelMax= 0.166E-10
+ DOF = PRES - Global Iteration    95                           - PCCR Solver
+  iIter=    0 RTR= 0.64253E+09 Alpha= 0.622E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.64201E+09 Alpha= 0.117E-14 DelMax= 0.473E-10
+ DOF = PRES - Global Iteration    96                           - PCCR Solver
+  iIter=    0 RTR= 0.63375E+09 Alpha= 0.624E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.63326E+09 Alpha=-0.351E-11 DelMax= 0.921E-10
+ DOF = PRES - Global Iteration    97                           - PCCR Solver
+  iIter=    0 RTR= 0.62507E+09 Alpha= 0.623E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.62459E+09 Alpha= 0.271E-15 DelMax= 0.149E-11
+ DOF = PRES - Global Iteration    98                           - PCCR Solver
+  iIter=    0 RTR= 0.61653E+09 Alpha= 0.620E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.61607E+09 Alpha= 0.471E-13 DelMax= 0.227E-11
+ DOF = PRES - Global Iteration    99                           - PCCR Solver
+  iIter=    0 RTR= 0.60814E+09 Alpha= 0.615E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.60770E+09 Alpha= 0.377E-15 DelMax= 0.350E-11
+ DOF = PRES - Global Iteration   100                           - PCCR Solver
+  iIter=    0 RTR= 0.59995E+09 Alpha= 0.609E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.59953E+09 Alpha= 0.616E-11 DelMax= 0.856E-10
+ DOF = PRES - Global Iteration     1                           - PCCR Solver
+  iIter=    0 RTR= 0.10999E+11 Alpha= 0.965E+00 DelMax= 0.100E-09
+  iIter=  137 RTR= 0.10967E-01 Alpha= 0.285E+01 DelMax= 0.368E-03
+ DOF = PRES - Global Iteration     2                           - PCCR Solver
+  iIter=    0 RTR= 0.18363E+10 Alpha= 0.926E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   27 RTR= 0.78781E+09 Alpha=-0.203E-09 DelMax= 0.507E-10
+ DOF = PRES - Global Iteration     3                           - PCCR Solver
+  iIter=    0 RTR= 0.15602E+10 Alpha= 0.804E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.76710E+09 Alpha= 0.167E-09 DelMax= 0.808E-10
+ DOF = PRES - Global Iteration     4                           - PCCR Solver
+  iIter=    0 RTR= 0.17433E+10 Alpha= 0.101E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   16 RTR= 0.63749E+09 Alpha= 0.576E-09 DelMax= 0.422E-10
+ DOF = PRES - Global Iteration     5                           - PCCR Solver
+  iIter=    0 RTR= 0.16401E+10 Alpha= 0.981E+00 DelMax= 0.100E-09
+  iIter=  194 RTR= 0.15721E-02 Alpha= 0.229E+01 DelMax= 0.933E-06
+ DOF = PRES - Global Iteration     6                           - PCCR Solver
+  iIter=    0 RTR= 0.16525E+10 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   32 RTR= 0.62718E+09 Alpha=-0.224E-09 DelMax= 0.231E-10
+ DOF = PRES - Global Iteration     7                           - PCCR Solver
+  iIter=    0 RTR= 0.11922E+10 Alpha= 0.111E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   29 RTR= 0.63938E+09 Alpha= 0.663E-09 DelMax= 0.852E-10
+ DOF = PRES - Global Iteration     8                           - PCCR Solver
+  iIter=    0 RTR= 0.10187E+10 Alpha= 0.106E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.66676E+09 Alpha= 0.843E-10 DelMax= 0.120E-10
+ DOF = PRES - Global Iteration     9                           - PCCR Solver
+  iIter=    0 RTR= 0.10356E+10 Alpha= 0.110E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.74874E+09 Alpha= 0.571E-10 DelMax= 0.976E-11
+ DOF = PRES - Global Iteration    10                           - PCCR Solver
+  iIter=    0 RTR= 0.11468E+10 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   19 RTR= 0.85583E+09 Alpha=-0.373E-09 DelMax= 0.551E-10
+ DOF = PRES - Global Iteration    11                           - PCCR Solver
+  iIter=    0 RTR= 0.12654E+10 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   20 RTR= 0.95468E+09 Alpha=-0.399E-10 DelMax= 0.632E-11
+ DOF = PRES - Global Iteration    12                           - PCCR Solver
+  iIter=    0 RTR= 0.13389E+10 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   18 RTR= 0.10263E+10 Alpha= 0.802E-09 DelMax= 0.993E-10
+ DOF = PRES - Global Iteration    13                           - PCCR Solver
+  iIter=    0 RTR= 0.13474E+10 Alpha= 0.108E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.10633E+10 Alpha= 0.672E-10 DelMax= 0.110E-10
+ DOF = PRES - Global Iteration    14                           - PCCR Solver
+  iIter=    0 RTR= 0.13307E+10 Alpha= 0.107E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   15 RTR= 0.10736E+10 Alpha=-0.738E-09 DelMax= 0.786E-10
+ DOF = PRES - Global Iteration    15                           - PCCR Solver
+  iIter=    0 RTR= 0.13362E+10 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.10686E+10 Alpha=-0.228E-09 DelMax= 0.388E-10
+ DOF = PRES - Global Iteration    16                           - PCCR Solver
+  iIter=    0 RTR= 0.13286E+10 Alpha= 0.122E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.10575E+10 Alpha=-0.325E-10 DelMax= 0.780E-11
+ DOF = PRES - Global Iteration    17                           - PCCR Solver
+  iIter=    0 RTR= 0.13190E+10 Alpha= 0.129E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.10470E+10 Alpha=-0.184E-09 DelMax= 0.464E-10
+ DOF = PRES - Global Iteration    18                           - PCCR Solver
+  iIter=    0 RTR= 0.12858E+10 Alpha= 0.134E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10389E+10 Alpha= 0.185E-09 DelMax= 0.652E-10
+ DOF = PRES - Global Iteration    19                           - PCCR Solver
+  iIter=    0 RTR= 0.12395E+10 Alpha= 0.135E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10322E+10 Alpha= 0.148E-10 DelMax= 0.163E-10
+ DOF = PRES - Global Iteration    20                           - PCCR Solver
+  iIter=    0 RTR= 0.11980E+10 Alpha= 0.137E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10259E+10 Alpha= 0.800E-12 DelMax= 0.395E-11
+ DOF = PRES - Global Iteration    21                           - PCCR Solver
+  iIter=    0 RTR= 0.11676E+10 Alpha= 0.138E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10202E+10 Alpha= 0.213E-13 DelMax= 0.767E-11
+ DOF = PRES - Global Iteration    22                           - PCCR Solver
+  iIter=    0 RTR= 0.11458E+10 Alpha= 0.134E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10162E+10 Alpha= 0.363E-14 DelMax= 0.161E-11
+ DOF = PRES - Global Iteration    23                           - PCCR Solver
+  iIter=    0 RTR= 0.11168E+10 Alpha= 0.135E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10039E+10 Alpha=-0.601E-13 DelMax= 0.159E-10
+ DOF = PRES - Global Iteration    24                           - PCCR Solver
+  iIter=    0 RTR= 0.10705E+10 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.98358E+09 Alpha=-0.840E-12 DelMax= 0.300E-10
+ DOF = PRES - Global Iteration    25                           - PCCR Solver
+  iIter=    0 RTR= 0.10252E+10 Alpha= 0.123E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.95375E+09 Alpha= 0.505E-13 DelMax= 0.613E-10
+ DOF = PRES - Global Iteration    26                           - PCCR Solver
+  iIter=    0 RTR= 0.97538E+09 Alpha= 0.117E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.91743E+09 Alpha= 0.717E-13 DelMax= 0.619E-11
+ DOF = PRES - Global Iteration    27                           - PCCR Solver
+  iIter=    0 RTR= 0.92409E+09 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.87707E+09 Alpha= 0.720E-13 DelMax= 0.116E-10
+ DOF = PRES - Global Iteration    28                           - PCCR Solver
+  iIter=    0 RTR= 0.87592E+09 Alpha= 0.110E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.83754E+09 Alpha=-0.175E-11 DelMax= 0.426E-10
+ DOF = PRES - Global Iteration    29                           - PCCR Solver
+  iIter=    0 RTR= 0.83561E+09 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.80315E+09 Alpha=-0.666E-12 DelMax= 0.218E-10
+ DOF = PRES - Global Iteration    30                           - PCCR Solver
+  iIter=    0 RTR= 0.80435E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.77724E+09 Alpha= 0.361E-12 DelMax= 0.403E-10
+ DOF = PRES - Global Iteration    31                           - PCCR Solver
+  iIter=    0 RTR= 0.78440E+09 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.76147E+09 Alpha= 0.290E-13 DelMax= 0.455E-10
+ DOF = PRES - Global Iteration    32                           - PCCR Solver
+  iIter=    0 RTR= 0.77626E+09 Alpha= 0.123E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.75650E+09 Alpha= 0.487E-12 DelMax= 0.114E-10
+ DOF = PRES - Global Iteration    33                           - PCCR Solver
+  iIter=    0 RTR= 0.77910E+09 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.76184E+09 Alpha= 0.197E-12 DelMax= 0.530E-10
+ DOF = PRES - Global Iteration    34                           - PCCR Solver
+  iIter=    0 RTR= 0.79212E+09 Alpha= 0.131E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.77667E+09 Alpha= 0.561E-12 DelMax= 0.205E-10
+ DOF = PRES - Global Iteration    35                           - PCCR Solver
+  iIter=    0 RTR= 0.81335E+09 Alpha= 0.132E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.79934E+09 Alpha= 0.410E-12 DelMax= 0.906E-11
+ DOF = PRES - Global Iteration    36                           - PCCR Solver
+  iIter=    0 RTR= 0.84090E+09 Alpha= 0.132E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.82821E+09 Alpha= 0.211E-12 DelMax= 0.911E-10
+ DOF = PRES - Global Iteration    37                           - PCCR Solver
+  iIter=    0 RTR= 0.87337E+09 Alpha= 0.129E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.86178E+09 Alpha= 0.986E-13 DelMax= 0.650E-11
+ DOF = PRES - Global Iteration    38                           - PCCR Solver
+  iIter=    0 RTR= 0.90927E+09 Alpha= 0.122E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.89853E+09 Alpha=-0.284E-10 DelMax= 0.333E-10
+ DOF = PRES - Global Iteration    39                           - PCCR Solver
+  iIter=    0 RTR= 0.94723E+09 Alpha= 0.117E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.93692E+09 Alpha=-0.195E-10 DelMax= 0.392E-10
+ DOF = PRES - Global Iteration    40                           - PCCR Solver
+  iIter=    0 RTR= 0.98521E+09 Alpha= 0.111E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.97513E+09 Alpha=-0.148E-10 DelMax= 0.237E-10
+ DOF = PRES - Global Iteration    41                           - PCCR Solver
+  iIter=    0 RTR= 0.10218E+10 Alpha= 0.107E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.10116E+10 Alpha=-0.128E-10 DelMax= 0.371E-10
+ DOF = PRES - Global Iteration    42                           - PCCR Solver
+  iIter=    0 RTR= 0.10553E+10 Alpha= 0.103E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10447E+10 Alpha= 0.328E-13 DelMax= 0.119E-10
+ DOF = PRES - Global Iteration    43                           - PCCR Solver
+  iIter=    0 RTR= 0.10841E+10 Alpha= 0.101E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10729E+10 Alpha= 0.429E-13 DelMax= 0.518E-11
+ DOF = PRES - Global Iteration    44                           - PCCR Solver
+  iIter=    0 RTR= 0.11054E+10 Alpha= 0.100E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10936E+10 Alpha= 0.548E-13 DelMax= 0.270E-10
+ DOF = PRES - Global Iteration    45                           - PCCR Solver
+  iIter=    0 RTR= 0.11179E+10 Alpha= 0.100E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.11054E+10 Alpha= 0.716E-13 DelMax= 0.448E-10
+ DOF = PRES - Global Iteration    46                           - PCCR Solver
+  iIter=    0 RTR= 0.11210E+10 Alpha= 0.100E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.11079E+10 Alpha= 0.111E-12 DelMax= 0.176E-10
+ DOF = PRES - Global Iteration    47                           - PCCR Solver
+  iIter=    0 RTR= 0.11151E+10 Alpha= 0.101E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.11015E+10 Alpha= 0.139E-12 DelMax= 0.195E-10
+ DOF = PRES - Global Iteration    48                           - PCCR Solver
+  iIter=    0 RTR= 0.10998E+10 Alpha= 0.103E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10861E+10 Alpha= 0.185E-12 DelMax= 0.567E-11
+ DOF = PRES - Global Iteration    49                           - PCCR Solver
+  iIter=    0 RTR= 0.10769E+10 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10637E+10 Alpha= 0.266E-12 DelMax= 0.983E-10
+ DOF = PRES - Global Iteration    50                           - PCCR Solver
+  iIter=    0 RTR= 0.10490E+10 Alpha= 0.105E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10367E+10 Alpha= 0.435E-12 DelMax= 0.710E-10
+ DOF = PRES - Global Iteration    51                           - PCCR Solver
+  iIter=    0 RTR= 0.10251E+10 Alpha= 0.957E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10122E+10 Alpha= 0.937E-12 DelMax= 0.597E-11
+ DOF = PRES - Global Iteration    52                           - PCCR Solver
+  iIter=    0 RTR= 0.10147E+10 Alpha= 0.102E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.10023E+10 Alpha= 0.224E-11 DelMax= 0.760E-10
+ DOF = PRES - Global Iteration    53                           - PCCR Solver
+  iIter=    0 RTR= 0.99445E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.97998E+09 Alpha=-0.387E-14 DelMax= 0.478E-11
+ DOF = PRES - Global Iteration    54                           - PCCR Solver
+  iIter=    0 RTR= 0.95923E+09 Alpha= 0.118E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.94628E+09 Alpha=-0.467E-14 DelMax= 0.332E-11
+ DOF = PRES - Global Iteration    55                           - PCCR Solver
+  iIter=    0 RTR= 0.92179E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.91229E+09 Alpha= 0.799E-12 DelMax= 0.276E-10
+ DOF = PRES - Global Iteration    56                           - PCCR Solver
+  iIter=    0 RTR= 0.89130E+09 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.88339E+09 Alpha= 0.302E-12 DelMax= 0.183E-10
+ DOF = PRES - Global Iteration    57                           - PCCR Solver
+  iIter=    0 RTR= 0.86549E+09 Alpha= 0.124E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.85875E+09 Alpha= 0.107E-12 DelMax= 0.305E-11
+ DOF = PRES - Global Iteration    58                           - PCCR Solver
+  iIter=    0 RTR= 0.84379E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.83757E+09 Alpha= 0.348E-13 DelMax= 0.167E-11
+ DOF = PRES - Global Iteration    59                           - PCCR Solver
+  iIter=    0 RTR= 0.82425E+09 Alpha= 0.134E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.81856E+09 Alpha=-0.124E-10 DelMax= 0.342E-10
+ DOF = PRES - Global Iteration    60                           - PCCR Solver
+  iIter=    0 RTR= 0.80654E+09 Alpha= 0.137E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.80131E+09 Alpha= 0.224E-14 DelMax= 0.696E-12
+ DOF = PRES - Global Iteration    61                           - PCCR Solver
+  iIter=    0 RTR= 0.79030E+09 Alpha= 0.139E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.78551E+09 Alpha=-0.763E-12 DelMax= 0.129E-10
+ DOF = PRES - Global Iteration    62                           - PCCR Solver
+  iIter=    0 RTR= 0.77549E+09 Alpha= 0.141E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.77108E+09 Alpha=-0.138E-12 DelMax= 0.126E-11
+ DOF = PRES - Global Iteration    63                           - PCCR Solver
+  iIter=    0 RTR= 0.76190E+09 Alpha= 0.144E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.75781E+09 Alpha= 0.843E-14 DelMax= 0.191E-11
+ DOF = PRES - Global Iteration    64                           - PCCR Solver
+  iIter=    0 RTR= 0.74937E+09 Alpha= 0.146E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.74556E+09 Alpha=-0.480E-13 DelMax= 0.414E-10
+ DOF = PRES - Global Iteration    65                           - PCCR Solver
+  iIter=    0 RTR= 0.73775E+09 Alpha= 0.149E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.73419E+09 Alpha=-0.559E-12 DelMax= 0.270E-10
+ DOF = PRES - Global Iteration    66                           - PCCR Solver
+  iIter=    0 RTR= 0.72696E+09 Alpha= 0.152E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.72363E+09 Alpha=-0.605E-12 DelMax= 0.770E-11
+ DOF = PRES - Global Iteration    67                           - PCCR Solver
+  iIter=    0 RTR= 0.71712E+09 Alpha= 0.150E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.71403E+09 Alpha=-0.274E-12 DelMax= 0.127E-12
+ DOF = PRES - Global Iteration    68                           - PCCR Solver
+  iIter=    0 RTR= 0.70865E+09 Alpha= 0.155E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.70565E+09 Alpha=-0.940E-13 DelMax= 0.235E-10
+ DOF = PRES - Global Iteration    69                           - PCCR Solver
+  iIter=    0 RTR= 0.70037E+09 Alpha= 0.156E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.69758E+09 Alpha= 0.842E-12 DelMax= 0.208E-11
+ DOF = PRES - Global Iteration    70                           - PCCR Solver
+  iIter=    0 RTR= 0.69273E+09 Alpha= 0.156E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.69008E+09 Alpha=-0.636E-12 DelMax= 0.517E-10
+ DOF = PRES - Global Iteration    71                           - PCCR Solver
+  iIter=    0 RTR= 0.68587E+09 Alpha= 0.156E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.68336E+09 Alpha=-0.242E-12 DelMax= 0.470E-10
+ DOF = PRES - Global Iteration    72                           - PCCR Solver
+  iIter=    0 RTR= 0.67984E+09 Alpha= 0.155E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.67741E+09 Alpha=-0.307E-13 DelMax= 0.906E-11
+ DOF = PRES - Global Iteration    73                           - PCCR Solver
+  iIter=    0 RTR= 0.67455E+09 Alpha= 0.154E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.67218E+09 Alpha=-0.143E-13 DelMax= 0.128E-10
+ DOF = PRES - Global Iteration    74                           - PCCR Solver
+  iIter=    0 RTR= 0.66992E+09 Alpha= 0.153E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.66758E+09 Alpha=-0.149E-12 DelMax= 0.833E-10
+ DOF = PRES - Global Iteration    75                           - PCCR Solver
+  iIter=    0 RTR= 0.66590E+09 Alpha= 0.151E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.66358E+09 Alpha= 0.410E-14 DelMax= 0.838E-12
+ DOF = PRES - Global Iteration    76                           - PCCR Solver
+  iIter=    0 RTR= 0.66242E+09 Alpha= 0.149E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.66013E+09 Alpha=-0.623E-12 DelMax= 0.827E-10
+ DOF = PRES - Global Iteration    77                           - PCCR Solver
+  iIter=    0 RTR= 0.65951E+09 Alpha= 0.145E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65724E+09 Alpha=-0.359E-13 DelMax= 0.545E-12
+ DOF = PRES - Global Iteration    78                           - PCCR Solver
+  iIter=    0 RTR= 0.65749E+09 Alpha= 0.139E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65516E+09 Alpha=-0.132E-12 DelMax= 0.389E-11
+ DOF = PRES - Global Iteration    79                           - PCCR Solver
+  iIter=    0 RTR= 0.65624E+09 Alpha= 0.147E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65372E+09 Alpha=-0.141E-12 DelMax= 0.128E-11
+ DOF = PRES - Global Iteration    80                           - PCCR Solver
+  iIter=    0 RTR= 0.65442E+09 Alpha= 0.138E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65218E+09 Alpha=-0.684E-13 DelMax= 0.454E-11
+ DOF = PRES - Global Iteration    81                           - PCCR Solver
+  iIter=    0 RTR= 0.65320E+09 Alpha= 0.136E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65095E+09 Alpha=-0.357E-13 DelMax= 0.955E-12
+ DOF = PRES - Global Iteration    82                           - PCCR Solver
+  iIter=    0 RTR= 0.65221E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65011E+09 Alpha=-0.325E-13 DelMax= 0.541E-12
+ DOF = PRES - Global Iteration    83                           - PCCR Solver
+  iIter=    0 RTR= 0.65155E+09 Alpha= 0.126E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.64953E+09 Alpha=-0.543E-13 DelMax= 0.742E-11
+ DOF = PRES - Global Iteration    84                           - PCCR Solver
+  iIter=    0 RTR= 0.65121E+09 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.64934E+09 Alpha=-0.162E-13 DelMax= 0.281E-11
+ DOF = PRES - Global Iteration    85                           - PCCR Solver
+  iIter=    0 RTR= 0.65140E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.64959E+09 Alpha=-0.346E-12 DelMax= 0.888E-10
+ DOF = PRES - Global Iteration    86                           - PCCR Solver
+  iIter=    0 RTR= 0.65203E+09 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.65028E+09 Alpha=-0.141E-13 DelMax= 0.233E-11
+ DOF = PRES - Global Iteration    87                           - PCCR Solver
+  iIter=    0 RTR= 0.65290E+09 Alpha= 0.108E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.65123E+09 Alpha=-0.652E-13 DelMax= 0.294E-10
+ DOF = PRES - Global Iteration    88                           - PCCR Solver
+  iIter=    0 RTR= 0.65403E+09 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.65241E+09 Alpha=-0.213E-13 DelMax= 0.245E-11
+ DOF = PRES - Global Iteration    89                           - PCCR Solver
+  iIter=    0 RTR= 0.65535E+09 Alpha= 0.100E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.65380E+09 Alpha=-0.525E-14 DelMax= 0.380E-11
+ DOF = PRES - Global Iteration    90                           - PCCR Solver
+  iIter=    0 RTR= 0.65686E+09 Alpha= 0.972E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    7 RTR= 0.65537E+09 Alpha= 0.114E-12 DelMax= 0.385E-10
+ DOF = PRES - Global Iteration    91                           - PCCR Solver
+  iIter=    0 RTR= 0.65855E+09 Alpha= 0.937E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    7 RTR= 0.65712E+09 Alpha= 0.993E-15 DelMax= 0.243E-11
+ DOF = PRES - Global Iteration    92                           - PCCR Solver
+  iIter=    0 RTR= 0.66039E+09 Alpha= 0.905E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    7 RTR= 0.65901E+09 Alpha=-0.131E-13 DelMax= 0.683E-11
+ DOF = PRES - Global Iteration    93                           - PCCR Solver
+  iIter=    0 RTR= 0.66239E+09 Alpha= 0.869E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.66107E+09 Alpha= 0.959E-15 DelMax= 0.692E-12
+ DOF = PRES - Global Iteration    94                           - PCCR Solver
+  iIter=    0 RTR= 0.66455E+09 Alpha= 0.834E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.66329E+09 Alpha= 0.791E-14 DelMax= 0.862E-10
+ DOF = PRES - Global Iteration    95                           - PCCR Solver
+  iIter=    0 RTR= 0.66688E+09 Alpha= 0.798E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.66569E+09 Alpha= 0.115E-13 DelMax= 0.961E-11
+ DOF = PRES - Global Iteration    96                           - PCCR Solver
+  iIter=    0 RTR= 0.66939E+09 Alpha= 0.763E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.66826E+09 Alpha= 0.242E-13 DelMax= 0.509E-11
+ DOF = PRES - Global Iteration    97                           - PCCR Solver
+  iIter=    0 RTR= 0.67204E+09 Alpha= 0.728E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.67098E+09 Alpha= 0.410E-13 DelMax= 0.525E-11
+ DOF = PRES - Global Iteration    98                           - PCCR Solver
+  iIter=    0 RTR= 0.67483E+09 Alpha= 0.695E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.67383E+09 Alpha= 0.602E-13 DelMax= 0.575E-11
+ DOF = PRES - Global Iteration    99                           - PCCR Solver
+  iIter=    0 RTR= 0.67771E+09 Alpha= 0.663E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.67678E+09 Alpha= 0.787E-13 DelMax= 0.617E-11
+ DOF = PRES - Global Iteration   100                           - PCCR Solver
+  iIter=    0 RTR= 0.68071E+09 Alpha= 0.635E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    8 RTR= 0.67983E+09 Alpha= 0.990E-13 DelMax= 0.108E-10
+ DOF = PRES - Global Iteration     1                           - PCCR Solver
+  iIter=    0 RTR= 0.20463E+11 Alpha= 0.968E+00 DelMax= 0.100E-09
+  iIter=  147 RTR= 0.19693E-01 Alpha= 0.225E+01 DelMax= 0.248E-03
+ DOF = PRES - Global Iteration     2                           - PCCR Solver
+  iIter=    0 RTR= 0.32511E+10 Alpha= 0.914E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.16093E+10 Alpha=-0.143E-10 DelMax= 0.564E-10
+ DOF = PRES - Global Iteration     3                           - PCCR Solver
+  iIter=    0 RTR= 0.26733E+10 Alpha= 0.910E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.16897E+10 Alpha=-0.521E-11 DelMax= 0.294E-11
+ DOF = PRES - Global Iteration     4                           - PCCR Solver
+  iIter=    0 RTR= 0.33747E+10 Alpha= 0.137E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   20 RTR= 0.85002E+09 Alpha=-0.196E-09 DelMax= 0.364E-10
+ DOF = PRES - Global Iteration     5                           - PCCR Solver
+  iIter=    0 RTR= 0.30301E+10 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   59 RTR= 0.11000E+09 Alpha= 0.238E-11 DelMax= 0.544E-10
+ DOF = PRES - Global Iteration     6                           - PCCR Solver
+  iIter=    0 RTR= 0.11590E+10 Alpha= 0.113E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   38 RTR= 0.61560E+09 Alpha=-0.563E-12 DelMax= 0.755E-10
+ DOF = PRES - Global Iteration     7                           - PCCR Solver
+  iIter=    0 RTR= 0.10740E+10 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   25 RTR= 0.69684E+09 Alpha= 0.224E-12 DelMax= 0.186E-10
+ DOF = PRES - Global Iteration     8                           - PCCR Solver
+  iIter=    0 RTR= 0.11703E+10 Alpha= 0.125E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.80922E+09 Alpha= 0.529E-11 DelMax= 0.623E-10
+ DOF = PRES - Global Iteration     9                           - PCCR Solver
+  iIter=    0 RTR= 0.12839E+10 Alpha= 0.134E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.93088E+09 Alpha= 0.118E-10 DelMax= 0.415E-10
+ DOF = PRES - Global Iteration    10                           - PCCR Solver
+  iIter=    0 RTR= 0.14230E+10 Alpha= 0.136E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.10819E+10 Alpha= 0.461E-12 DelMax= 0.439E-10
+ DOF = PRES - Global Iteration    11                           - PCCR Solver
+  iIter=    0 RTR= 0.15913E+10 Alpha= 0.133E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.12553E+10 Alpha= 0.492E-09 DelMax= 0.891E-10
+ DOF = PRES - Global Iteration    12                           - PCCR Solver
+  iIter=    0 RTR= 0.17865E+10 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.14385E+10 Alpha= 0.617E-11 DelMax= 0.211E-10
+ DOF = PRES - Global Iteration    13                           - PCCR Solver
+  iIter=    0 RTR= 0.19844E+10 Alpha= 0.125E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.16128E+10 Alpha=-0.134E-11 DelMax= 0.962E-10
+ DOF = PRES - Global Iteration    14                           - PCCR Solver
+  iIter=    0 RTR= 0.21713E+10 Alpha= 0.122E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.17684E+10 Alpha= 0.359E-13 DelMax= 0.118E-11
+ DOF = PRES - Global Iteration    15                           - PCCR Solver
+  iIter=    0 RTR= 0.23510E+10 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.19033E+10 Alpha=-0.437E-13 DelMax= 0.358E-10
+ DOF = PRES - Global Iteration    16                           - PCCR Solver
+  iIter=    0 RTR= 0.25306E+10 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   16 RTR= 0.20190E+10 Alpha= 0.816E-12 DelMax= 0.643E-10
+ DOF = PRES - Global Iteration    17                           - PCCR Solver
+  iIter=    0 RTR= 0.27023E+10 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   15 RTR= 0.21178E+10 Alpha=-0.962E-11 DelMax= 0.831E-10
+ DOF = PRES - Global Iteration    18                           - PCCR Solver
+  iIter=    0 RTR= 0.28502E+10 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.21990E+10 Alpha= 0.823E-14 DelMax= 0.403E-11
+ DOF = PRES - Global Iteration    19                           - PCCR Solver
+  iIter=    0 RTR= 0.29658E+10 Alpha= 0.117E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   16 RTR= 0.22616E+10 Alpha= 0.101E-11 DelMax= 0.488E-10
+ DOF = PRES - Global Iteration    20                           - PCCR Solver
+  iIter=    0 RTR= 0.30380E+10 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.23081E+10 Alpha= 0.302E-14 DelMax= 0.527E-11
+ DOF = PRES - Global Iteration    21                           - PCCR Solver
+  iIter=    0 RTR= 0.31151E+10 Alpha= 0.114E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   16 RTR= 0.23437E+10 Alpha= 0.117E-12 DelMax= 0.129E-10
+ DOF = PRES - Global Iteration    22                           - PCCR Solver
+  iIter=    0 RTR= 0.30281E+10 Alpha= 0.111E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   15 RTR= 0.23616E+10 Alpha=-0.162E-12 DelMax= 0.253E-10
+ DOF = PRES - Global Iteration    23                           - PCCR Solver
+  iIter=    0 RTR= 0.28981E+10 Alpha= 0.110E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   15 RTR= 0.23154E+10 Alpha=-0.377E-13 DelMax= 0.143E-10
+ DOF = PRES - Global Iteration    24                           - PCCR Solver
+  iIter=    0 RTR= 0.26465E+10 Alpha= 0.107E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.21658E+10 Alpha=-0.277E-13 DelMax= 0.128E-10
+ DOF = PRES - Global Iteration    25                           - PCCR Solver
+  iIter=    0 RTR= 0.23303E+10 Alpha= 0.101E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.19666E+10 Alpha=-0.249E-12 DelMax= 0.731E-10
+ DOF = PRES - Global Iteration    26                           - PCCR Solver
+  iIter=    0 RTR= 0.21208E+10 Alpha= 0.966E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.17935E+10 Alpha=-0.169E-13 DelMax= 0.375E-10
+ DOF = PRES - Global Iteration    27                           - PCCR Solver
+  iIter=    0 RTR= 0.20530E+10 Alpha= 0.963E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.16588E+10 Alpha= 0.698E-14 DelMax= 0.448E-11
+ DOF = PRES - Global Iteration    28                           - PCCR Solver
+  iIter=    0 RTR= 0.20340E+10 Alpha= 0.967E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   21 RTR= 0.15269E+10 Alpha=-0.145E-12 DelMax= 0.444E-10
+ DOF = PRES - Global Iteration    29                           - PCCR Solver
+  iIter=    0 RTR= 0.20066E+10 Alpha= 0.965E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   26 RTR= 0.13891E+10 Alpha=-0.455E-13 DelMax= 0.381E-10
+ DOF = PRES - Global Iteration    30                           - PCCR Solver
+  iIter=    0 RTR= 0.19525E+10 Alpha= 0.957E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   30 RTR= 0.12588E+10 Alpha= 0.197E-13 DelMax= 0.777E-10
+ DOF = PRES - Global Iteration    31                           - PCCR Solver
+  iIter=    0 RTR= 0.18512E+10 Alpha= 0.940E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   29 RTR= 0.11349E+10 Alpha= 0.128E-13 DelMax= 0.103E-10
+ DOF = PRES - Global Iteration    32                           - PCCR Solver
+  iIter=    0 RTR= 0.16788E+10 Alpha= 0.917E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   26 RTR= 0.10119E+10 Alpha=-0.169E-12 DelMax= 0.684E-10
+ DOF = PRES - Global Iteration    33                           - PCCR Solver
+  iIter=    0 RTR= 0.14482E+10 Alpha= 0.898E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   26 RTR= 0.89383E+09 Alpha=-0.119E-13 DelMax= 0.293E-10
+ DOF = PRES - Global Iteration    34                           - PCCR Solver
+  iIter=    0 RTR= 0.12107E+10 Alpha= 0.894E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   22 RTR= 0.78755E+09 Alpha= 0.967E-13 DelMax= 0.641E-10
+ DOF = PRES - Global Iteration    35                           - PCCR Solver
+  iIter=    0 RTR= 0.10164E+10 Alpha= 0.903E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   18 RTR= 0.70549E+09 Alpha= 0.623E-12 DelMax= 0.579E-10
+ DOF = PRES - Global Iteration    36                           - PCCR Solver
+  iIter=    0 RTR= 0.90350E+09 Alpha= 0.918E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.65993E+09 Alpha= 0.386E-13 DelMax= 0.266E-10
+ DOF = PRES - Global Iteration    37                           - PCCR Solver
+  iIter=    0 RTR= 0.88232E+09 Alpha= 0.938E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.65391E+09 Alpha= 0.114E-13 DelMax= 0.193E-10
+ DOF = PRES - Global Iteration    38                           - PCCR Solver
+  iIter=    0 RTR= 0.92339E+09 Alpha= 0.941E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   16 RTR= 0.68460E+09 Alpha= 0.361E-12 DelMax= 0.326E-10
+ DOF = PRES - Global Iteration    39                           - PCCR Solver
+  iIter=    0 RTR= 0.98556E+09 Alpha= 0.922E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.73730E+09 Alpha= 0.883E-14 DelMax= 0.669E-10
+ DOF = PRES - Global Iteration    40                           - PCCR Solver
+  iIter=    0 RTR= 0.10273E+10 Alpha= 0.889E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.78120E+09 Alpha= 0.813E-13 DelMax= 0.491E-10
+ DOF = PRES - Global Iteration    41                           - PCCR Solver
+  iIter=    0 RTR= 0.10291E+10 Alpha= 0.865E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   19 RTR= 0.79091E+09 Alpha=-0.953E-13 DelMax= 0.418E-10
+ DOF = PRES - Global Iteration    42                           - PCCR Solver
+  iIter=    0 RTR= 0.10023E+10 Alpha= 0.971E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   18 RTR= 0.74483E+09 Alpha= 0.106E-12 DelMax= 0.327E-10
+ DOF = PRES - Global Iteration    43                           - PCCR Solver
+  iIter=    0 RTR= 0.91967E+09 Alpha= 0.117E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   18 RTR= 0.63910E+09 Alpha= 0.599E-14 DelMax= 0.122E-10
+ DOF = PRES - Global Iteration    44                           - PCCR Solver
+  iIter=    0 RTR= 0.75281E+09 Alpha= 0.105E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.55283E+09 Alpha= 0.258E-12 DelMax= 0.882E-10
+ DOF = PRES - Global Iteration    45                           - PCCR Solver
+  iIter=    0 RTR= 0.61376E+09 Alpha= 0.974E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.47233E+09 Alpha= 0.100E-13 DelMax= 0.914E-11
+ DOF = PRES - Global Iteration    46                           - PCCR Solver
+  iIter=    0 RTR= 0.53061E+09 Alpha= 0.108E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.40470E+09 Alpha=-0.156E-12 DelMax= 0.488E-10
+ DOF = PRES - Global Iteration    47                           - PCCR Solver
+  iIter=    0 RTR= 0.46704E+09 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.36656E+09 Alpha= 0.159E-14 DelMax= 0.316E-11
+ DOF = PRES - Global Iteration    48                           - PCCR Solver
+  iIter=    0 RTR= 0.41999E+09 Alpha= 0.114E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.34091E+09 Alpha=-0.837E-13 DelMax= 0.614E-10
+ DOF = PRES - Global Iteration    49                           - PCCR Solver
+  iIter=    0 RTR= 0.39564E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   14 RTR= 0.29786E+09 Alpha=-0.197E-11 DelMax= 0.812E-10
+ DOF = PRES - Global Iteration    50                           - PCCR Solver
+  iIter=    0 RTR= 0.38937E+09 Alpha= 0.147E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   19 RTR= 0.22861E+09 Alpha=-0.812E-12 DelMax= 0.342E-10
+ DOF = PRES - Global Iteration    51                           - PCCR Solver
+  iIter=    0 RTR= 0.39337E+09 Alpha= 0.116E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   31 RTR= 0.16475E+09 Alpha=-0.505E-11 DelMax= 0.518E-10
+ DOF = PRES - Global Iteration    52                           - PCCR Solver
+  iIter=    0 RTR= 0.33770E+09 Alpha= 0.945E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   74 RTR= 0.11104E+09 Alpha=-0.376E-12 DelMax= 0.797E-10
+ DOF = PRES - Global Iteration    53                           - PCCR Solver
+  iIter=    0 RTR= 0.23839E+09 Alpha= 0.791E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   35 RTR= 0.71146E+08 Alpha=-0.217E-12 DelMax= 0.487E-10
+ DOF = PRES - Global Iteration    54                           - PCCR Solver
+  iIter=    0 RTR= 0.18406E+09 Alpha= 0.725E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   31 RTR= 0.45027E+08 Alpha= 0.471E-11 DelMax= 0.115E-10
+ DOF = PRES - Global Iteration    55                           - PCCR Solver
+  iIter=    0 RTR= 0.18760E+09 Alpha= 0.102E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   47 RTR= 0.87368E+08 Alpha= 0.273E-12 DelMax= 0.515E-10
+ DOF = PRES - Global Iteration    56                           - PCCR Solver
+  iIter=    0 RTR= 0.18020E+09 Alpha= 0.929E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   34 RTR= 0.10922E+09 Alpha= 0.142E-10 DelMax= 0.434E-10
+ DOF = PRES - Global Iteration    57                           - PCCR Solver
+  iIter=    0 RTR= 0.26009E+09 Alpha= 0.135E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   47 RTR= 0.83516E+08 Alpha= 0.486E-12 DelMax= 0.761E-10
+ DOF = PRES - Global Iteration    58                           - PCCR Solver
+  iIter=    0 RTR= 0.49131E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   44 RTR= 0.58891E+08 Alpha= 0.517E-14 DelMax= 0.930E-10
+ DOF = PRES - Global Iteration    59                           - PCCR Solver
+  iIter=    0 RTR= 0.74158E+09 Alpha= 0.109E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=  122 RTR= 0.32642E+08 Alpha=-0.279E-10 DelMax= 0.812E-10
+ DOF = PRES - Global Iteration    60                           - PCCR Solver
+  iIter=    0 RTR= 0.11302E+10 Alpha= 0.872E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   26 RTR= 0.16313E+09 Alpha= 0.341E-12 DelMax= 0.181E-10
+ DOF = PRES - Global Iteration    61                           - PCCR Solver
+  iIter=    0 RTR= 0.79678E+09 Alpha= 0.762E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   20 RTR= 0.13376E+09 Alpha=-0.526E-13 DelMax= 0.135E-10
+ DOF = PRES - Global Iteration    62                           - PCCR Solver
+  iIter=    0 RTR= 0.91747E+09 Alpha= 0.844E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   32 RTR= 0.30630E+09 Alpha= 0.430E-12 DelMax= 0.718E-10
+ DOF = PRES - Global Iteration    63                           - PCCR Solver
+  iIter=    0 RTR= 0.10018E+10 Alpha= 0.942E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   26 RTR= 0.49286E+09 Alpha=-0.432E-12 DelMax= 0.801E-10
+ DOF = PRES - Global Iteration    64                           - PCCR Solver
+  iIter=    0 RTR= 0.10674E+10 Alpha= 0.101E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   35 RTR= 0.59589E+09 Alpha=-0.490E-12 DelMax= 0.412E-10
+ DOF = PRES - Global Iteration    65                           - PCCR Solver
+  iIter=    0 RTR= 0.12508E+10 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   69 RTR= 0.71959E+09 Alpha= 0.120E-10 DelMax= 0.803E-10
+ DOF = PRES - Global Iteration    66                           - PCCR Solver
+  iIter=    0 RTR= 0.23350E+10 Alpha= 0.142E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   56 RTR= 0.80492E+09 Alpha= 0.822E-13 DelMax= 0.512E-10
+ DOF = PRES - Global Iteration     1                           - PCCR Solver
+  iIter=    0 RTR= 0.56231E+11 Alpha= 0.973E+00 DelMax= 0.100E-09
+  iIter=  159 RTR= 0.55633E-01 Alpha= 0.273E+01 DelMax= 0.285E-03
+ DOF = PRES - Global Iteration     2                           - PCCR Solver
+  iIter=    0 RTR= 0.94140E+10 Alpha= 0.820E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.50033E+10 Alpha= 0.611E-14 DelMax= 0.242E-11
+ DOF = PRES - Global Iteration     3                           - PCCR Solver
+  iIter=    0 RTR= 0.82051E+10 Alpha= 0.106E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   22 RTR= 0.26025E+10 Alpha=-0.199E-11 DelMax= 0.136E-10
+ DOF = PRES - Global Iteration     4                           - PCCR Solver
+  iIter=    0 RTR= 0.19708E+11 Alpha= 0.848E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   19 RTR= 0.55175E+10 Alpha=-0.281E-11 DelMax= 0.855E-10
+ DOF = PRES - Global Iteration     5                           - PCCR Solver
+  iIter=    0 RTR= 0.48603E+11 Alpha= 0.823E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.18902E+11 Alpha= 0.139E-13 DelMax= 0.627E-10
+ DOF = PRES - Global Iteration     1                           - PCCR Solver
+  iIter=    0 RTR= 0.16147E+11 Alpha= 0.967E+00 DelMax= 0.100E-09
+  iIter=  136 RTR= 0.15123E-01 Alpha= 0.295E+01 DelMax= 0.127E-03
+ DOF = PRES - Global Iteration     2                           - PCCR Solver
+  iIter=    0 RTR= 0.26101E+10 Alpha= 0.921E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   17 RTR= 0.12332E+10 Alpha= 0.321E-10 DelMax= 0.577E-10
+ DOF = PRES - Global Iteration     3                           - PCCR Solver
+  iIter=    0 RTR= 0.21845E+10 Alpha= 0.847E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.12960E+10 Alpha=-0.335E-08 DelMax= 0.961E-10
+ DOF = PRES - Global Iteration     4                           - PCCR Solver
+  iIter=    0 RTR= 0.26549E+10 Alpha= 0.116E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   38 RTR= 0.83996E+09 Alpha=-0.183E-09 DelMax= 0.285E-10
+ DOF = PRES - Global Iteration     5                           - PCCR Solver
+  iIter=    0 RTR= 0.26363E+10 Alpha= 0.113E+01 DelMax= 0.100E-09
+  iIter=  159 RTR= 0.23745E-02 Alpha= 0.234E+01 DelMax= 0.265E-04
+ DOF = PRES - Global Iteration     6                           - PCCR Solver
+  iIter=    0 RTR= 0.15702E+10 Alpha= 0.118E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   33 RTR= 0.16329E+09 Alpha=-0.296E-11 DelMax= 0.631E-10
+ DOF = PRES - Global Iteration     7                           - PCCR Solver
+  iIter=    0 RTR= 0.61432E+09 Alpha= 0.110E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   47 RTR= 0.29790E+09 Alpha= 0.253E-10 DelMax= 0.607E-10
+ DOF = PRES - Global Iteration     8                           - PCCR Solver
+  iIter=    0 RTR= 0.60228E+09 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   35 RTR= 0.30942E+09 Alpha= 0.115E-10 DelMax= 0.222E-10
+ DOF = PRES - Global Iteration     9                           - PCCR Solver
+  iIter=    0 RTR= 0.59929E+09 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.33348E+09 Alpha= 0.876E-13 DelMax= 0.774E-11
+ DOF = PRES - Global Iteration    10                           - PCCR Solver
+  iIter=    0 RTR= 0.58984E+09 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.37705E+09 Alpha= 0.392E-10 DelMax= 0.510E-10
+ DOF = PRES - Global Iteration    11                           - PCCR Solver
+  iIter=    0 RTR= 0.61559E+09 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.44318E+09 Alpha= 0.133E-10 DelMax= 0.487E-10
+ DOF = PRES - Global Iteration    12                           - PCCR Solver
+  iIter=    0 RTR= 0.67726E+09 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.52650E+09 Alpha=-0.676E-13 DelMax= 0.188E-11
+ DOF = PRES - Global Iteration    13                           - PCCR Solver
+  iIter=    0 RTR= 0.75346E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.61418E+09 Alpha=-0.237E-12 DelMax= 0.242E-11
+ DOF = PRES - Global Iteration    14                           - PCCR Solver
+  iIter=    0 RTR= 0.83013E+09 Alpha= 0.130E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.70006E+09 Alpha= 0.787E-11 DelMax= 0.769E-10
+ DOF = PRES - Global Iteration    15                           - PCCR Solver
+  iIter=    0 RTR= 0.91157E+09 Alpha= 0.133E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.77979E+09 Alpha= 0.134E-11 DelMax= 0.916E-10
+ DOF = PRES - Global Iteration    16                           - PCCR Solver
+  iIter=    0 RTR= 0.98476E+09 Alpha= 0.137E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.85071E+09 Alpha= 0.106E-11 DelMax= 0.421E-10
+ DOF = PRES - Global Iteration    17                           - PCCR Solver
+  iIter=    0 RTR= 0.10412E+10 Alpha= 0.140E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.91237E+09 Alpha= 0.546E-11 DelMax= 0.974E-10
+ DOF = PRES - Global Iteration    18                           - PCCR Solver
+  iIter=    0 RTR= 0.10743E+10 Alpha= 0.142E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.96431E+09 Alpha=-0.102E-11 DelMax= 0.113E-10
+ DOF = PRES - Global Iteration    19                           - PCCR Solver
+  iIter=    0 RTR= 0.11080E+10 Alpha= 0.143E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10111E+10 Alpha=-0.851E-12 DelMax= 0.187E-10
+ DOF = PRES - Global Iteration    20                           - PCCR Solver
+  iIter=    0 RTR= 0.11462E+10 Alpha= 0.142E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10560E+10 Alpha=-0.421E-12 DelMax= 0.914E-11
+ DOF = PRES - Global Iteration    21                           - PCCR Solver
+  iIter=    0 RTR= 0.11772E+10 Alpha= 0.146E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.10990E+10 Alpha=-0.210E-12 DelMax= 0.385E-10
+ DOF = PRES - Global Iteration    22                           - PCCR Solver
+  iIter=    0 RTR= 0.12113E+10 Alpha= 0.147E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.11403E+10 Alpha=-0.109E-12 DelMax= 0.862E-11
+ DOF = PRES - Global Iteration    23                           - PCCR Solver
+  iIter=    0 RTR= 0.12475E+10 Alpha= 0.146E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.11801E+10 Alpha=-0.687E-13 DelMax= 0.158E-10
+ DOF = PRES - Global Iteration    24                           - PCCR Solver
+  iIter=    0 RTR= 0.12816E+10 Alpha= 0.143E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.12166E+10 Alpha=-0.549E-13 DelMax= 0.163E-10
+ DOF = PRES - Global Iteration    25                           - PCCR Solver
+  iIter=    0 RTR= 0.13119E+10 Alpha= 0.139E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.12481E+10 Alpha= 0.408E-12 DelMax= 0.936E-10
+ DOF = PRES - Global Iteration    26                           - PCCR Solver
+  iIter=    0 RTR= 0.13370E+10 Alpha= 0.135E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.12730E+10 Alpha=-0.745E-13 DelMax= 0.957E-11
+ DOF = PRES - Global Iteration    27                           - PCCR Solver
+  iIter=    0 RTR= 0.13568E+10 Alpha= 0.131E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.12915E+10 Alpha= 0.547E-12 DelMax= 0.745E-10
+ DOF = PRES - Global Iteration    28                           - PCCR Solver
+  iIter=    0 RTR= 0.13692E+10 Alpha= 0.129E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.13029E+10 Alpha=-0.877E-13 DelMax= 0.734E-11
+ DOF = PRES - Global Iteration    29                           - PCCR Solver
+  iIter=    0 RTR= 0.13752E+10 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.13084E+10 Alpha=-0.764E-13 DelMax= 0.871E-11
+ DOF = PRES - Global Iteration    30                           - PCCR Solver
+  iIter=    0 RTR= 0.13790E+10 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.13098E+10 Alpha=-0.654E-13 DelMax= 0.784E-11
+ DOF = PRES - Global Iteration    31                           - PCCR Solver
+  iIter=    0 RTR= 0.13782E+10 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.13088E+10 Alpha=-0.418E-13 DelMax= 0.697E-11
+ DOF = PRES - Global Iteration    32                           - PCCR Solver
+  iIter=    0 RTR= 0.13750E+10 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13065E+10 Alpha= 0.117E-12 DelMax= 0.178E-10
+ DOF = PRES - Global Iteration    33                           - PCCR Solver
+  iIter=    0 RTR= 0.13726E+10 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13056E+10 Alpha= 0.441E-13 DelMax= 0.118E-10
+ DOF = PRES - Global Iteration    34                           - PCCR Solver
+  iIter=    0 RTR= 0.13728E+10 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13073E+10 Alpha= 0.134E-13 DelMax= 0.123E-10
+ DOF = PRES - Global Iteration    35                           - PCCR Solver
+  iIter=    0 RTR= 0.13760E+10 Alpha= 0.126E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13121E+10 Alpha= 0.341E-14 DelMax= 0.146E-10
+ DOF = PRES - Global Iteration    36                           - PCCR Solver
+  iIter=    0 RTR= 0.13826E+10 Alpha= 0.124E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.13202E+10 Alpha= 0.887E-12 DelMax= 0.992E-10
+ DOF = PRES - Global Iteration    37                           - PCCR Solver
+  iIter=    0 RTR= 0.13923E+10 Alpha= 0.123E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.13315E+10 Alpha= 0.284E-12 DelMax= 0.434E-10
+ DOF = PRES - Global Iteration    38                           - PCCR Solver
+  iIter=    0 RTR= 0.14048E+10 Alpha= 0.121E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.13453E+10 Alpha= 0.115E-12 DelMax= 0.113E-11
+ DOF = PRES - Global Iteration    39                           - PCCR Solver
+  iIter=    0 RTR= 0.14201E+10 Alpha= 0.119E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.13612E+10 Alpha=-0.309E-11 DelMax= 0.930E-10
+ DOF = PRES - Global Iteration    40                           - PCCR Solver
+  iIter=    0 RTR= 0.14353E+10 Alpha= 0.117E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.13777E+10 Alpha= 0.752E-13 DelMax= 0.419E-10
+ DOF = PRES - Global Iteration    41                           - PCCR Solver
+  iIter=    0 RTR= 0.14503E+10 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.13936E+10 Alpha= 0.121E-12 DelMax= 0.235E-10
+ DOF = PRES - Global Iteration    42                           - PCCR Solver
+  iIter=    0 RTR= 0.14640E+10 Alpha= 0.113E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.14079E+10 Alpha=-0.132E-15 DelMax= 0.188E-10
+ DOF = PRES - Global Iteration    43                           - PCCR Solver
+  iIter=    0 RTR= 0.14745E+10 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.14191E+10 Alpha= 0.504E-12 DelMax= 0.247E-10
+ DOF = PRES - Global Iteration    44                           - PCCR Solver
+  iIter=    0 RTR= 0.14810E+10 Alpha= 0.110E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.14261E+10 Alpha= 0.169E-14 DelMax= 0.650E-10
+ DOF = PRES - Global Iteration    45                           - PCCR Solver
+  iIter=    0 RTR= 0.14824E+10 Alpha= 0.109E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.14277E+10 Alpha= 0.492E-14 DelMax= 0.445E-11
+ DOF = PRES - Global Iteration    46                           - PCCR Solver
+  iIter=    0 RTR= 0.14770E+10 Alpha= 0.108E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.14224E+10 Alpha= 0.126E-13 DelMax= 0.256E-10
+ DOF = PRES - Global Iteration    47                           - PCCR Solver
+  iIter=    0 RTR= 0.14645E+10 Alpha= 0.107E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.14100E+10 Alpha= 0.312E-13 DelMax= 0.461E-11
+ DOF = PRES - Global Iteration    48                           - PCCR Solver
+  iIter=    0 RTR= 0.14449E+10 Alpha= 0.106E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13905E+10 Alpha= 0.746E-13 DelMax= 0.892E-11
+ DOF = PRES - Global Iteration    49                           - PCCR Solver
+  iIter=    0 RTR= 0.14176E+10 Alpha= 0.105E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13633E+10 Alpha= 0.167E-12 DelMax= 0.107E-10
+ DOF = PRES - Global Iteration    50                           - PCCR Solver
+  iIter=    0 RTR= 0.13832E+10 Alpha= 0.105E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.13291E+10 Alpha= 0.352E-12 DelMax= 0.315E-10
+ DOF = PRES - Global Iteration    51                           - PCCR Solver
+  iIter=    0 RTR= 0.13421E+10 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.12883E+10 Alpha=-0.903E-13 DelMax= 0.772E-11
+ DOF = PRES - Global Iteration    52                           - PCCR Solver
+  iIter=    0 RTR= 0.12947E+10 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.12415E+10 Alpha=-0.175E-12 DelMax= 0.263E-10
+ DOF = PRES - Global Iteration    53                           - PCCR Solver
+  iIter=    0 RTR= 0.12419E+10 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.11895E+10 Alpha=-0.293E-12 DelMax= 0.675E-10
+ DOF = PRES - Global Iteration    54                           - PCCR Solver
+  iIter=    0 RTR= 0.11849E+10 Alpha= 0.104E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.11336E+10 Alpha=-0.462E-12 DelMax= 0.885E-10
+ DOF = PRES - Global Iteration    55                           - PCCR Solver
+  iIter=    0 RTR= 0.11251E+10 Alpha= 0.105E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.10750E+10 Alpha= 0.530E-13 DelMax= 0.905E-10
+ DOF = PRES - Global Iteration    56                           - PCCR Solver
+  iIter=    0 RTR= 0.10640E+10 Alpha= 0.106E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.10154E+10 Alpha= 0.719E-13 DelMax= 0.224E-10
+ DOF = PRES - Global Iteration    57                           - PCCR Solver
+  iIter=    0 RTR= 0.10026E+10 Alpha= 0.107E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.95570E+09 Alpha= 0.821E-13 DelMax= 0.508E-10
+ DOF = PRES - Global Iteration    58                           - PCCR Solver
+  iIter=    0 RTR= 0.94258E+09 Alpha= 0.109E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.89768E+09 Alpha=-0.844E-12 DelMax= 0.709E-10
+ DOF = PRES - Global Iteration    59                           - PCCR Solver
+  iIter=    0 RTR= 0.88509E+09 Alpha= 0.112E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.84242E+09 Alpha= 0.598E-13 DelMax= 0.607E-10
+ DOF = PRES - Global Iteration    60                           - PCCR Solver
+  iIter=    0 RTR= 0.83130E+09 Alpha= 0.115E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.79103E+09 Alpha= 0.363E-13 DelMax= 0.475E-10
+ DOF = PRES - Global Iteration    61                           - PCCR Solver
+  iIter=    0 RTR= 0.78079E+09 Alpha= 0.118E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.74317E+09 Alpha=-0.200E-12 DelMax= 0.353E-10
+ DOF = PRES - Global Iteration    62                           - PCCR Solver
+  iIter=    0 RTR= 0.73434E+09 Alpha= 0.122E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.69947E+09 Alpha=-0.672E-13 DelMax= 0.230E-10
+ DOF = PRES - Global Iteration    63                           - PCCR Solver
+  iIter=    0 RTR= 0.69191E+09 Alpha= 0.127E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.65992E+09 Alpha= 0.102E-12 DelMax= 0.436E-10
+ DOF = PRES - Global Iteration    64                           - PCCR Solver
+  iIter=    0 RTR= 0.65298E+09 Alpha= 0.132E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.62397E+09 Alpha= 0.849E-14 DelMax= 0.284E-10
+ DOF = PRES - Global Iteration    65                           - PCCR Solver
+  iIter=    0 RTR= 0.61752E+09 Alpha= 0.137E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.59157E+09 Alpha= 0.259E-13 DelMax= 0.104E-10
+ DOF = PRES - Global Iteration    66                           - PCCR Solver
+  iIter=    0 RTR= 0.58530E+09 Alpha= 0.143E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.56245E+09 Alpha=-0.767E-15 DelMax= 0.876E-11
+ DOF = PRES - Global Iteration    67                           - PCCR Solver
+  iIter=    0 RTR= 0.55614E+09 Alpha= 0.150E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.53634E+09 Alpha= 0.892E-12 DelMax= 0.130E-10
+ DOF = PRES - Global Iteration    68                           - PCCR Solver
+  iIter=    0 RTR= 0.52990E+09 Alpha= 0.157E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.51303E+09 Alpha= 0.322E-12 DelMax= 0.338E-10
+ DOF = PRES - Global Iteration    69                           - PCCR Solver
+  iIter=    0 RTR= 0.50648E+09 Alpha= 0.165E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   10 RTR= 0.49235E+09 Alpha= 0.352E-13 DelMax= 0.308E-11
+ DOF = PRES - Global Iteration    70                           - PCCR Solver
+  iIter=    0 RTR= 0.48560E+09 Alpha= 0.174E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.47397E+09 Alpha=-0.112E-12 DelMax= 0.305E-10
+ DOF = PRES - Global Iteration    71                           - PCCR Solver
+  iIter=    0 RTR= 0.46720E+09 Alpha= 0.183E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.45779E+09 Alpha=-0.378E-13 DelMax= 0.425E-11
+ DOF = PRES - Global Iteration    72                           - PCCR Solver
+  iIter=    0 RTR= 0.45118E+09 Alpha= 0.194E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.44367E+09 Alpha=-0.537E-12 DelMax= 0.394E-10
+ DOF = PRES - Global Iteration    73                           - PCCR Solver
+  iIter=    0 RTR= 0.43741E+09 Alpha= 0.203E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.43149E+09 Alpha= 0.132E-14 DelMax= 0.428E-11
+ DOF = PRES - Global Iteration    74                           - PCCR Solver
+  iIter=    0 RTR= 0.42579E+09 Alpha= 0.208E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=    9 RTR= 0.42117E+09 Alpha=-0.553E-12 DelMax= 0.520E-10
+ DOF = PRES - Global Iteration    75                           - PCCR Solver
+  iIter=    0 RTR= 0.41624E+09 Alpha= 0.206E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.41264E+09 Alpha=-0.362E-14 DelMax= 0.183E-10
+ DOF = PRES - Global Iteration    76                           - PCCR Solver
+  iIter=    0 RTR= 0.40865E+09 Alpha= 0.196E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.40580E+09 Alpha=-0.316E-13 DelMax= 0.193E-10
+ DOF = PRES - Global Iteration    77                           - PCCR Solver
+  iIter=    0 RTR= 0.40276E+09 Alpha= 0.181E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.40045E+09 Alpha=-0.878E-13 DelMax= 0.321E-10
+ DOF = PRES - Global Iteration    78                           - PCCR Solver
+  iIter=    0 RTR= 0.39837E+09 Alpha= 0.164E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.39643E+09 Alpha=-0.130E-12 DelMax= 0.687E-10
+ DOF = PRES - Global Iteration    79                           - PCCR Solver
+  iIter=    0 RTR= 0.39523E+09 Alpha= 0.149E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.39354E+09 Alpha=-0.110E-12 DelMax= 0.128E-10
+ DOF = PRES - Global Iteration    80                           - PCCR Solver
+  iIter=    0 RTR= 0.39314E+09 Alpha= 0.137E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.39160E+09 Alpha=-0.888E-13 DelMax= 0.186E-10
+ DOF = PRES - Global Iteration    81                           - PCCR Solver
+  iIter=    0 RTR= 0.39190E+09 Alpha= 0.128E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.39048E+09 Alpha=-0.609E-13 DelMax= 0.757E-11
+ DOF = PRES - Global Iteration    82                           - PCCR Solver
+  iIter=    0 RTR= 0.39142E+09 Alpha= 0.120E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.39008E+09 Alpha=-0.465E-13 DelMax= 0.852E-11
+ DOF = PRES - Global Iteration    83                           - PCCR Solver
+  iIter=    0 RTR= 0.39157E+09 Alpha= 0.113E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.39030E+09 Alpha= 0.128E-14 DelMax= 0.130E-10
+ DOF = PRES - Global Iteration    84                           - PCCR Solver
+  iIter=    0 RTR= 0.39223E+09 Alpha= 0.108E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.39102E+09 Alpha=-0.486E-13 DelMax= 0.144E-10
+ DOF = PRES - Global Iteration    85                           - PCCR Solver
+  iIter=    0 RTR= 0.39336E+09 Alpha= 0.102E+01 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.39222E+09 Alpha=-0.206E-13 DelMax= 0.110E-10
+ DOF = PRES - Global Iteration    86                           - PCCR Solver
+  iIter=    0 RTR= 0.39489E+09 Alpha= 0.965E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.39380E+09 Alpha=-0.332E-13 DelMax= 0.113E-10
+ DOF = PRES - Global Iteration    87                           - PCCR Solver
+  iIter=    0 RTR= 0.39675E+09 Alpha= 0.918E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.39571E+09 Alpha=-0.289E-13 DelMax= 0.277E-10
+ DOF = PRES - Global Iteration    88                           - PCCR Solver
+  iIter=    0 RTR= 0.39885E+09 Alpha= 0.877E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.39785E+09 Alpha=-0.264E-13 DelMax= 0.603E-10
+ DOF = PRES - Global Iteration    89                           - PCCR Solver
+  iIter=    0 RTR= 0.40113E+09 Alpha= 0.842E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.40016E+09 Alpha=-0.255E-13 DelMax= 0.786E-10
+ DOF = PRES - Global Iteration    90                           - PCCR Solver
+  iIter=    0 RTR= 0.40353E+09 Alpha= 0.813E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.40257E+09 Alpha=-0.260E-13 DelMax= 0.283E-10
+ DOF = PRES - Global Iteration    91                           - PCCR Solver
+  iIter=    0 RTR= 0.40600E+09 Alpha= 0.788E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.40504E+09 Alpha=-0.282E-13 DelMax= 0.184E-10
+ DOF = PRES - Global Iteration    92                           - PCCR Solver
+  iIter=    0 RTR= 0.40854E+09 Alpha= 0.768E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.40755E+09 Alpha=-0.316E-13 DelMax= 0.232E-10
+ DOF = PRES - Global Iteration    93                           - PCCR Solver
+  iIter=    0 RTR= 0.41113E+09 Alpha= 0.752E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.41012E+09 Alpha=-0.362E-13 DelMax= 0.948E-10
+ DOF = PRES - Global Iteration    94                           - PCCR Solver
+  iIter=    0 RTR= 0.41382E+09 Alpha= 0.740E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.41276E+09 Alpha=-0.413E-13 DelMax= 0.289E-10
+ DOF = PRES - Global Iteration    95                           - PCCR Solver
+  iIter=    0 RTR= 0.41662E+09 Alpha= 0.730E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.41551E+09 Alpha=-0.461E-13 DelMax= 0.413E-10
+ DOF = PRES - Global Iteration    96                           - PCCR Solver
+  iIter=    0 RTR= 0.41957E+09 Alpha= 0.726E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.41839E+09 Alpha=-0.496E-13 DelMax= 0.197E-10
+ DOF = PRES - Global Iteration    97                           - PCCR Solver
+  iIter=    0 RTR= 0.42267E+09 Alpha= 0.724E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   13 RTR= 0.42142E+09 Alpha= 0.198E-15 DelMax= 0.372E-11
+ DOF = PRES - Global Iteration    98                           - PCCR Solver
+  iIter=    0 RTR= 0.42596E+09 Alpha= 0.729E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.42462E+09 Alpha=-0.507E-13 DelMax= 0.312E-10
+ DOF = PRES - Global Iteration    99                           - PCCR Solver
+  iIter=    0 RTR= 0.42944E+09 Alpha= 0.735E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   12 RTR= 0.42800E+09 Alpha=-0.281E-13 DelMax= 0.741E-11
+ DOF = PRES - Global Iteration   100                           - PCCR Solver
+  iIter=    0 RTR= 0.43311E+09 Alpha= 0.751E+00 DelMax= 0.100E-09
+   Solver has stalled
+  iIter=   11 RTR= 0.43154E+09 Alpha=-0.423E-13 DelMax= 0.315E-10

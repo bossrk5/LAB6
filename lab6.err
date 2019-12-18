@@ -1,0 +1,125 @@
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       13:03:45
+
+ *** WARNING ***                         CP =       1.828   TIME= 13:14:09
+ BSPLIN is not a recognized BEGIN command, abbreviation, or macro.       
+ This command will be ignored.                                           
+
+ *** WARNING ***                         CP =       2.047   TIME= 13:16:46
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =       2.766   TIME= 13:18:30
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =       2.938   TIME= 13:18:43
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =       3.156   TIME= 13:18:49
+ LAB.MAC is not a recognized PREP7 command, abbreviation, or macro.      
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.250   TIME= 13:18:54
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =       3.406   TIME= 13:18:59
+ РЕКТ is not a recognized PREP7 command, abbreviation, or macro.     
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.484   TIME= 13:22:50
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =       3.781   TIME= 13:23:27
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =       4.562   TIME= 13:24:11
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =      15.578   TIME= 13:25:56
+ File lab6.rfl does not exist for delete.                                
+
+ *** ERROR ***                           CP =      20.391   TIME= 13:29:57
+ B-spline requires at least 2 points.                                    
+
+ *** WARNING ***                         CP =      20.500   TIME= 13:30:01
+ File lab6.rfl does not exist for delete.                                
+
+ *** WARNING ***                         CP =      24.359   TIME= 13:30:04
+ Constraint on undefined or unselected line 1 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      24.359   TIME= 13:30:04
+ Constraint on undefined or unselected line 2 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      24.484   TIME= 13:30:04
+ Constraint on undefined or unselected line 6 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      25.969   TIME= 13:30:05
+ No change from initial solution - probable input error.                 
+
+ *** WARNING ***                         CP =      26.781   TIME= 13:30:47
+ BSPLIN is not a recognized POST1 command, abbreviation, or macro.       
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      30.547   TIME= 13:30:54
+ Constraint on undefined or unselected line 1 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      30.547   TIME= 13:30:54
+ Constraint on undefined or unselected line 2 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      30.547   TIME= 13:30:54
+ Constraint on undefined or unselected line 6 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      30.766   TIME= 13:30:54
+ No change from initial solution - probable input error.                 
+
+ *** WARNING ***                         CP =      31.734   TIME= 13:30:59
+ BSPLIN is not a recognized POST1 command, abbreviation, or macro.       
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      35.469   TIME= 13:31:05
+ Constraint on undefined or unselected line 1 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      35.469   TIME= 13:31:05
+ Constraint on undefined or unselected line 2 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      35.469   TIME= 13:31:05
+ Constraint on undefined or unselected line 6 not transferred to nodes.  
+
+ *** WARNING ***                         CP =      35.641   TIME= 13:31:05
+ No change from initial solution - probable input error.                 
+
+ *** WARNING ***                         CP =      36.953   TIME= 13:31:17
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      37.094   TIME= 13:31:33
+ Item VOLU has not been stored in the database.  The PLESOL command is   
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      40.125   TIME= 13:31:48
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     221.109   TIME= 13:41:30
+ Negative or zero pressure detected during property update.  This may be 
+ caused by a divergent solution or by an incorrect property value.  The  
+ reference pressure may need to be increased.                            
+  Node = 181.                                                            
+
+ *** ERROR ***                           CP =     221.109   TIME= 13:41:30
+ Negative density calculated.  Solution terminated.  This could be       
+ caused by a property error or a divergent solution.                     
+  Node = 181.                                                            
+
+ *** WARNING ***                         CP =     227.156   TIME= 13:41:50
+ Negative or zero pressure detected during property update.  This may be 
+ caused by a divergent solution or by an incorrect property value.  The  
+ reference pressure may need to be increased.                            
+  Node = 153.                                                            
+
+ *** ERROR ***                           CP =     227.156   TIME= 13:41:50
+ Negative density calculated.  Solution terminated.  This could be       
+ caused by a property error or a divergent solution.                     
+  Node = 153.                                                            
+
+ *** WARNING ***                         CP =     227.875   TIME= 13:41:58
+ BSPLIN is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
